@@ -1,0 +1,35 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #f4f4f4;
+}
+
+#minesweeper {
+  display: grid;
+  grid-template-columns: repeat(10, 40px); /* 10 columns */
+  gap: 1px;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  background-color: #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.cell.revealed {
+  background-color: #e0e0e0;
+}
+
+.cell.mine {
+  background-color: red;
+}
