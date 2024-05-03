@@ -3,7 +3,7 @@ function init() {
     "https://novel-psychology.com/bv3.VW0fPo3lpEvcbemFVZJmZWDW0C1TMzzHMcx_NKjmE/zrLJTIUOz-MizuED2qMUTvQb",
     "https://novel-psychology.com/bV3jV/0qP.3ipev/b/m-V/JJZaDm0C1bM/TBkD5hNaDHA/w/LbTVUBxZOnTRkn0yMXDoEm",
     "https://novel-psychology.com/b/3NV.0uP/3bpavkbImwVgJwZ/D/0r1rMbTBkt5/MlztgfyNL-TBU_x/OKTbk/ziOuDUMk",
-    "https://mango.mjsj.sbs",
+    "https://novel-psychology.com/b.3/Vw0WPf3LpVvnbImOVWJ/ZODe0/1nMtzEEQ0/OoTzUR5/L/TnUazVMVTgQ_5/N/j_AA",
   ];
  
   var didOpen = false;
