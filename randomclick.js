@@ -2,7 +2,8 @@ function init() {
   var arr = [
     "https://novel-psychology.com/bv3.VW0fPo3lpEvcbemFVZJmZWDW0C1TMzzHMcx_NKjmE/zrLJTIUOz-MizuED2qMUTvQb",
     "https://novel-psychology.com/bV3jV/0qP.3ipev/b/m-V/JJZaDm0C1bM/TBkD5hNaDHA/w/LbTVUBxZOnTRkn0yMXDoEm",
-    "https://novel-psychology.com/b/3NV.0uP/3bpavkbImwVgJwZ/D/0r1rMbTBkt5/MlztgfyNL-TBU_x/OKTbk/ziOuDUMk"
+    "https://novel-psychology.com/b/3NV.0uP/3bpavkbImwVgJwZ/D/0r1rMbTBkt5/MlztgfyNL-TBU_x/OKTbk/ziOuDUMk",
+    "https://mango.mjsj.sbs",
   ];
  
   var didOpen = false;
