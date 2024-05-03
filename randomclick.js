@@ -2,8 +2,7 @@ function init() {
   var arr = [
     "https://novel-psychology.com/bv3.VW0fPo3lpEvcbemFVZJmZWDW0C1TMzzHMcx_NKjmE/zrLJTIUOz-MizuED2qMUTvQb",
     "https://novel-psychology.com/bV3jV/0qP.3ipev/b/m-V/JJZaDm0C1bM/TBkD5hNaDHA/w/LbTVUBxZOnTRkn0yMXDoEm",
-    "https://novel-psychology.com/b/3NV.0uP/3bpavkbImwVgJwZ/D/0r1rMbTBkt5/MlztgfyNL-TBU_x/OKTbk/ziOuDUMk",
-    "https://smoggybonus.com/bx3GVu0/P.3/pTv/bem/VbJDZyDr0Z1nM_T/kF5_MyzkkGyJL/TUUexvOBTbkRzzO/TJMM",
+    "https://novel-psychology.com/b/3NV.0uP/3bpavkbImwVgJwZ/D/0r1rMbTBkt5/MlztgfyNL-TBU_x/OKTbk/ziOuDUMk"
   ];
  
   var didOpen = false;
@@ -15,7 +14,7 @@ function init() {
     didOpen = true;
     setTimeout(() => {
       didOpen = false;
-    }, 3000);
+    }, 5000);
 
     var randomIndex = Math.floor(Math.random() * arr.length);
     var randomLink = arr[randomIndex];
