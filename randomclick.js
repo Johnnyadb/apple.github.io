@@ -1,9 +1,13 @@
 function init() {
   var arr = [
-    "https://novel-psychology.com/bv3.VW0fPo3lpEvcbemFVZJmZWDW0C1TMzzHMcx_NKjmE/zrLJTIUOz-MizuED2qMUTvQb",
-    "https://novel-psychology.com/bV3jV/0qP.3ipev/b/m-V/JJZaDm0C1bM/TBkD5hNaDHA/w/LbTVUBxZOnTRkn0yMXDoEm",
-    "https://novel-psychology.com/b/3NV.0uP/3bpavkbImwVgJwZ/D/0r1rMbTBkt5/MlztgfyNL-TBU_x/OKTbk/ziOuDUMk",
-    "https://novel-psychology.com/b.3/Vw0WPf3LpVvnbImOVWJ/ZODe0/1nMtzEEQ0/OoTzUR5/L/TnUazVMVTgQ_5/N/j_AA",
+    'https://novel-psychology.com/bP3/VF0.Pu3KpKvRbomgV/JhZ-DT0T1gMxzQMJz-MZT/Mb1xLVT/UizuMazpMkx_MyzwYp',
+    'https://novel-psychology.com/bU3.V/0/Pu3tpBv/bEm/VwJKZPD/0U1bMvzUMUx/N/jQEezmLHTBUHzpMKzVEL2IMsT-Qc',
+    'https://novel-psychology.com/b.3lVG0/PJ3np/vibDmOVVJHZyDx0H1KMJzZEd0HO-TiU/5tLLTuUnzhMQTrQk5qNQjyAi',
+    'https://novel-psychology.com/bJ3/Vp0NP.3sp/v_b/mxVEJxZRDe0c1tMdT/k/5/N/D-Ap4lLNTIUzxeOqTOk/0XMZDkkn',
+    'https://novel-psychology.com/b.3PVr0eP-3Lp_vDb/mrVdJGZCDY0q1JMLT/kk5wNdDFAVwnLwTKUaxlOZTfkW0xMrDVEh',
+    'https://novel-psychology.com/bq3CV.0KPb3/pZvCb/mjV/JdZ/Ds0h1-MUjHUByxNrjlUV2aLXTAUoybNeTaIa2hNbTWcz',
+    'https://novel-psychology.com/b.3/VS0tPq3bpGvIbsmeV/JHZLD/0j1JMsT_kq5/M/zRgsyZLKTPULx/OWTZkSzFOsDsMs',
+    'https://shempaurdou.net/4/7436813',
     "https://mango.mjsj.sbs/",
   ];
  
