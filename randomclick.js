@@ -8,6 +8,7 @@ function init() {
     'https://novel-psychology.com/bq3CV.0KPb3/pZvCb/mjV/JdZ/Ds0h1-MUjHUByxNrjlUV2aLXTAUoybNeTaIa2hNbTWcz',
     'https://novel-psychology.com/b.3/VS0tPq3bpGvIbsmeV/JHZLD/0j1JMsT_kq5/M/zRgsyZLKTPULx/OWTZkSzFOsDsMs',
     'https://shempaurdou.net/4/7436813',
+    'https://www.highcpmgate.com/z8767nw9bd?key=dd73fef32d545b5b5559b3dd496c33b8',
     "https://mango.mjsj.sbs/",
   ];
  
