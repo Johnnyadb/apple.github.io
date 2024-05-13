@@ -9,10 +9,16 @@ function init() {
     'https://atservineor.com/4/7420696',
     'https://glakaits.net/4/7237907',
     'https://nabauxou.net/4/7420698',
-    'https://www.highcpmgate.com/dmm6uzza8y?key=ae8300ee01b398a137d6f63fcc00bd63',
-    'https://www.highcpmgate.com/z8767nw9bd?key=dd73fef32d545b5b5559b3dd496c33b8',
-    'https://www.highcpmgate.com/egwhqfd5j4?key=a78fdce973ec5e6fdfe7a340cbe80330',
-    'https://www.highcpmgate.com/e6c1p52s2n?key=6b16c783c5b3542a115fb23958f8a755',
+    'https://grunoaph.net/4/7474716',
+    'https://auptirair.com/4/7237941',
+    'https://zaltaumi.net/4/7237921',
+    'https://rausauboocad.net/4/7420689',
+
+    // 'https://www.highcpmgate.com/dmm6uzza8y?key=ae8300ee01b398a137d6f63fcc00bd63',
+    // 'https://www.highcpmgate.com/z8767nw9bd?key=dd73fef32d545b5b5559b3dd496c33b8',
+    // 'https://www.highcpmgate.com/egwhqfd5j4?key=a78fdce973ec5e6fdfe7a340cbe80330',
+    // 'https://www.highcpmgate.com/e6c1p52s2n?key=6b16c783c5b3542a115fb23958f8a755',
+
     // "https://mango.mjsj.sbs/",
   ];
  
