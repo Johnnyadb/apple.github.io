@@ -1,12 +1,10 @@
 function init() {
   var arr = [
-    "https://novel-psychology.com/b.3GVQ0NP/3_pqvgbMmjVbJDZZD-0R1LMCTtkq5/M/z/gDyLL/T/Uhx/OOT-kjzwOBD/Mj",
-    "https://novel-psychology.com/ba3/V.0/Pg3mp-vXbomKVFJKZMDn0i1DM/jyUbyrNxj/UK2FLZTgUuyFNqTGI_2JN/T/cF",
-    "https://novel-psychology.com/b_3IVz0.Pt3/pevDb/msVyJ/Z/D/0y1jMoT/kk5WN/D/AowpLtTQUFxUOPT/kR0/MRDZEY",
-    "https://novel-psychology.com/bW3nVI0yP.3Dp_vib/mBVWJJZ/Df0/1aMcTXkQ5/NvDHA/4KLXTTU/xtOATikA0rMxDPkC",
-    "https://novel-psychology.com/bs3.Vp0rP-3/pKvob/mqVHJOZ/D-0d1NM/z/EH0BOdTIU/5OL/T/UMzjM/TgQK5bNHjIAf",
-    "https://altruisticemergency.com/b.3kVs0jPf3qphv/b_mvVlJYZlDu0b1SMzzsMUxKNBjaEHzQL/T/U-zJMaz/EA2tM_T/Qt",
-    "https://altruisticemergency.com/bO3LV_0.Py3ip/vzbdmgVUJXZcDS0z1TMYzfMYzIMFTYMS1/LCToUCzMM/zmMkxNMBz/YK",
+    "https://altruisticemergency.com/b/3NV.0/PU3fppvHb-mRVpJDZWD/0n1FM_z/Ep0jOATPUM5ZL_TdUWzwMqTOQ/5YNRjvAw",
+    "https://altruisticemergency.com/b.3/VS0-PN3XpevWbbmaVFJHZmDY0c1cM/Tzk/5/N/DWAk4OLtT/UZx/O/Tbk/0cMMDIku",
+    "https://altruisticemergency.com/bU3JV.0rPb3Zp/v/b_mxV/JuZaDu0W1CMfTrkq5NNcDqAHwvLITdUwxOOsThkM0CMkDeEq",
+    "https://altruisticemergency.com/b.3TV-0NPq3/p/vwbBmZVGJgZwDx0m1lM/j/U/yHN-jrUa2pLSTDUNydNyTTIi2/N/T/cP",
+    "https://altruisticemergency.com/b/3/VY0.PJ3XppvmbymnVEJ/ZDDA0o1/M/T/kd5VMyzKgVyuLUT/UhxwOVTyknzLO/D_Mx",
 
     // 'https://shempaurdou.net/4/7436813',
     // 'https://atservineor.com/4/7420696',
