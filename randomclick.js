@@ -6,14 +6,11 @@ function init() {
     "https://altruisticemergency.com/b.3TV-0NPq3/p/vwbBmZVGJgZwDx0m1lM/j/U/yHN-jrUa2pLSTDUNydNyTTIi2/N/T/cP",
     "https://altruisticemergency.com/b/3/VY0.PJ3XppvmbymnVEJ/ZDDA0o1/M/T/kd5VMyzKgVyuLUT/UhxwOVTyknzLO/D_Mx",
 
-    // 'https://shempaurdou.net/4/7436813',
-    // 'https://atservineor.com/4/7420696',
-    // 'https://glakaits.net/4/7237907',
-    // 'https://nabauxou.net/4/7420698',
-    // 'https://grunoaph.net/4/7474716',
-    // 'https://auptirair.com/4/7237941',
-    // 'https://zaltaumi.net/4/7237921',
-    // 'https://rausauboocad.net/4/7420689',
+    "https://zuhempih.com/4/7436813",
+    "https://thoadsaibsou.net/4/7474716",
+    "https://bauptost.net/4/7420689",
+    "https://eptougry.net/4/7420696",
+    "https://lidsaich.net/4/7420698",
 
     'https://www.highcpmgate.com/gqz2615ye8?key=fa0feaae93d41f849f02500024a84fc8',
     'https://www.highcpmgate.com/z8767nw9bd?key=dd73fef32d545b5b5559b3dd496c33b8',
@@ -21,8 +18,6 @@ function init() {
     'https://www.highcpmgate.com/e6c1p52s2n?key=6b16c783c5b3542a115fb23958f8a755',
     'https://www.highcpmgate.com/egwhqfd5j4?key=a78fdce973ec5e6fdfe7a340cbe80330',
     'https://www.highcpmgate.com/pmy722dia8?key=43d6dbe10c1901c59565bb335437c63f'
-
-    // "https://mango.mjsj.sbs/",
   ];
  
   var didOpen = false;
