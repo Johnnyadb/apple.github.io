@@ -9,8 +9,8 @@ function init() {
     "https://altruisticemergency.com/bW3aVR0.Pg3Ip/vLbsmrVAJqZVDA0S1/MHzpMmx/N/jzEdzlLwTnUhzRMBzWEf2VMBTZQA",
 
     "https://zuhempih.com/4/7436813",
-    "https://thoadsaibsou.net/4/7474716",
-    "https://phuruxoods.com/4/7237907",
+    // "https://thoadsaibsou.net/4/7474716",
+    // "https://phuruxoods.com/4/7237907",
     // "https://bauptost.net/4/7420689",
     // "https://eptougry.net/4/7420696",
     // "https://lidsaich.net/4/7420698",
