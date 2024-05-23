@@ -6,8 +6,8 @@ function init() {
     'https://cloudysolid.com/bt3.VD0/PY3qplvhb/mHVvJIZWDM0A1ZMLT-k/5/NZDcAjwfLhTAUexjOfTjk_0fMRDAEi',
     'https://cloudysolid.com/b.3OVq0fPW3lpNvobMmAVMJjZBDF0/1rM_Tnkk5RNwDRAJ4nLGTeUnxRObTNkq0/M/D/k_',
     'https://cloudysolid.com/b/3/V.0/Pe3NpnvrbFmSViJXZYDB0w1/MXzTEA0HOiTaUw5ALVT/USzvM/TwQJ5/NRjeAW',
-    'https://cloudysolid.com/bm3xVj0.Pm3dp_vBbDmcVOJUZjDi0/1-Mkz/MUxxN/jVEazTLJTNUHzuMgzYEX2zM/TWQA',
-    'https://cloudysolid.com/b/3/Vm0.P/3npav/bImWV/JzZbD/0A1/MuzBMAzlMuTUMu1BLdTUUlzEMMz/MDxFMazkY_',
+    // 'https://cloudysolid.com/bm3xVj0.Pm3dp_vBbDmcVOJUZjDi0/1-Mkz/MUxxN/jVEazTLJTNUHzuMgzYEX2zM/TWQA',
+    // 'https://cloudysolid.com/b/3/Vm0.P/3npav/bImWV/JzZbD/0A1/MuzBMAzlMuTUMu1BLdTUUlzEMMz/MDxFMazkY_',
 
 
     // "https://zuhempih.com/4/7436813",
