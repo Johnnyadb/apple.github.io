@@ -14,11 +14,18 @@ function init() {
     'https://woafoame.net/4/7237941',
     'https://corgouzaptax.com/4/7474716',
     'https://eeptoabs.com/4/7420689',
-    'https://thechoansa.com/4/7237907',
-    'https://psomtenga.net/4/7420696',
-    'https://kaushooptawo.net/4/7237921',
-    'https://vekseptaufin.com/4/7420698',
-    'https://thomtubsaro.com/4/7436813',
+    // 'https://thechoansa.com/4/7237907',
+    // 'https://psomtenga.net/4/7420696',
+    // 'https://kaushooptawo.net/4/7237921',
+    // 'https://vekseptaufin.com/4/7420698',
+    // 'https://thomtubsaro.com/4/7436813',
+
+    // firefox0
+    'https://soupy-user.com/b/3.Vw0_PL3RpIvLbVm/VMJrZRDj0/1_MvzPYQ3TMjztIlyOLbT/UszcNBjPcszdMdjFMG',
+    'https://soupy-user.com/bS3QVO0.Pi3Kp-v/bUmPVqJDZ_DM0/1/MvzqYa3NMDzzEl0YLeT/UPzlNzjYc/zFMPT/UY',
+    'https://soupy-user.com/b/3LVu0JP.3/pDvxbrmAVSJxZiDn0F1EM/zEYM3yMWjMgk4/L/TPUazFNqjvcXyOOTDikj',
+    'https://soupy-user.com/bU3gV.0cPp3dpTvPbGm/V-J/ZXDV0e1kMDzMYG3MMMzTc/yALRT/UlzENpjNc/zINuzvMu',
+    'https://soupy-user.com/bi3.VB0LPM3cpvvTbVmdVFJnZLDB0a1-MzziYS3jMezAYIylLlTSU-znNojtc/zvNtjjMs',
 
 
     // 'https://www.highcpmgate.com/zecjzrgcb?key=cee82a79ba80cedd47dc67c990c43981',
