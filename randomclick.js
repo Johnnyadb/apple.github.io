@@ -1,6 +1,5 @@
 function init() {
   var arr = [
-
     'https://cloudysolid.com/bD3/V/0IP.3Lp/vJbsm/V/J/Z/Dv0q1TMETUkN5/MhzEg/y/LXTEU/xwOrTlk/zKO_DkMt',
     'https://cloudysolid.com/b.3/Vz0DPA3_pgvHbUmEV/JXZvD_0e1XMFj/UFyhNzj/UT2JLfThUvyTNNTUId2-NNTncj',
     'https://cloudysolid.com/bt3.VD0/PY3qplvhb/mHVvJIZWDM0A1ZMLT-k/5/NZDcAjwfLhTAUexjOfTjk_0fMRDAEi',
@@ -9,13 +8,17 @@ function init() {
     'https://cloudysolid.com/bm3xVj0.Pm3dp_vBbDmcVOJUZjDi0/1-Mkz/MUxxN/jVEazTLJTNUHzuMgzYEX2zM/TWQA',
     'https://cloudysolid.com/b/3/Vm0.P/3npav/bImWV/JzZbD/0A1/MuzBMAzlMuTUMu1BLdTUUlzEMMz/MDxFMazkY_',
 
+    // dabao123
+    'https://yummy-repeat.com/b/3PVr0mP.3LpEvmbwmVV/JyZiDO0f1/Mlzec/y/MIjnc/2aL/TNU/zNNsz_ICytN/zucD',
+    'https://yummy-repeat.com/b.3bVZ0-P/3Hp/vfb/mRVcJAZhD/0/1/Mozqcry/MIj/g_0/LCTpUfzRNSzNIWyQOTDFUQ',
 
+    // 
     'https://thelrourg.net/4/7237942',
     'https://woafoame.net/4/7237941',
     'https://corgouzaptax.com/4/7474716',
     'https://eeptoabs.com/4/7420689',
     'https://thechoansa.com/4/7237907',
-    // 'https://psomtenga.net/4/7420696',
+    'https://psomtenga.net/4/7420696',
     // 'https://kaushooptawo.net/4/7237921',
     // 'https://vekseptaufin.com/4/7420698',
     // 'https://thomtubsaro.com/4/7436813',
