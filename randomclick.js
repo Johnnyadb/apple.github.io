@@ -15,7 +15,7 @@ function init() {
     'https://corgouzaptax.com/4/7474716',
     'https://eeptoabs.com/4/7420689',
     'https://thechoansa.com/4/7237907',
-    'https://psomtenga.net/4/7420696',
+    // 'https://psomtenga.net/4/7420696',
     // 'https://kaushooptawo.net/4/7237921',
     // 'https://vekseptaufin.com/4/7420698',
     // 'https://thomtubsaro.com/4/7436813',
@@ -47,6 +47,10 @@ function init() {
     'https://www.highcpmgate.com/mggp0d1rd?key=4a8cc439d8f03fbe93ede925886e0967',
     'https://www.highcpmgate.com/d61bt4eq5?key=50e22b35ce929782b3d0e55721cf6291',
     'https://www.highcpmgate.com/u2f5xpf0sh?key=35d46124492e301d6b7f93d0e323cd15',
+
+    // Lucy beta
+    'https://www.highcpmgate.com/bu71hki7pg?key=b3d0aabe20e37ad2a080cef996e523a8',
+    'https://www.highcpmgate.com/spw4aigpi?key=2bfe09727d8f45c16edc5be8ce11fe73',
 
   ];
  
