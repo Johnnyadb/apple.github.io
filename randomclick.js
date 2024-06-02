@@ -11,6 +11,7 @@ function init() {
     // dabao123
     'https://yummy-repeat.com/b/3PVr0mP.3LpEvmbwmVV/JyZiDO0f1/Mlzec/y/MIjnc/2aL/TNU/zNNsz_ICytN/zucD',
     'https://yummy-repeat.com/b.3bVZ0-P/3Hp/vfb/mRVcJAZhD/0/1/Mozqcry/MIj/g_0/LCTpUfzRNSzNIWyQOTDFUQ',
+    'https://yummy-repeat.com/bT3.Vk0jPu3/pyvIbumIVBJTZsDQ0G1YMhzoc/y/MEjakx0pLwTmUWznNyzlIlylOqT/Un',
 
     // 
     'https://thelrourg.net/4/7237942',
@@ -19,8 +20,8 @@ function init() {
     'https://eeptoabs.com/4/7420689',
     'https://thechoansa.com/4/7237907',
     'https://psomtenga.net/4/7420696',
-    // 'https://kaushooptawo.net/4/7237921',
-    // 'https://vekseptaufin.com/4/7420698',
+    'https://kaushooptawo.net/4/7237921',
+    'https://vekseptaufin.com/4/7420698',
     // 'https://thomtubsaro.com/4/7436813',
 
     // // john(declined)
@@ -54,6 +55,7 @@ function init() {
     // Lucy beta
     'https://www.highcpmgate.com/bu71hki7pg?key=b3d0aabe20e37ad2a080cef996e523a8',
     'https://www.highcpmgate.com/spw4aigpi?key=2bfe09727d8f45c16edc5be8ce11fe73',
+    'https://www.highcpmgate.com/eeuiwn19?key=a0e1b3b183cb8921ed2aaca0c4cb4490',
 
   ];
  
