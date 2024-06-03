@@ -1,5 +1,6 @@
 function init() {
   var arr = [
+    // first
     'https://cloudysolid.com/bD3/V/0IP.3Lp/vJbsm/V/J/Z/Dv0q1TMETUkN5/MhzEg/y/LXTEU/xwOrTlk/zKO_DkMt',
     'https://cloudysolid.com/b.3/Vz0DPA3_pgvHbUmEV/JXZvD_0e1XMFj/UFyhNzj/UT2JLfThUvyTNNTUId2-NNTncj',
     'https://cloudysolid.com/bt3.VD0/PY3qplvhb/mHVvJIZWDM0A1ZMLT-k/5/NZDcAjwfLhTAUexjOfTjk_0fMRDAEi',
@@ -8,36 +9,36 @@ function init() {
     'https://cloudysolid.com/bm3xVj0.Pm3dp_vBbDmcVOJUZjDi0/1-Mkz/MUxxN/jVEazTLJTNUHzuMgzYEX2zM/TWQA',
     'https://cloudysolid.com/b/3/Vm0.P/3npav/bImWV/JzZbD/0A1/MuzBMAzlMuTUMu1BLdTUUlzEMMz/MDxFMazkY_',
 
-    // dabao123
+    // db123
     'https://yummy-repeat.com/b/3PVr0mP.3LpEvmbwmVV/JyZiDO0f1/Mlzec/y/MIjnc/2aL/TNU/zNNsz_ICytN/zucD',
     'https://yummy-repeat.com/b.3bVZ0-P/3Hp/vfb/mRVcJAZhD/0/1/Mozqcry/MIj/g_0/LCTpUfzRNSzNIWyQOTDFUQ',
     'https://yummy-repeat.com/bT3.Vk0jPu3/pyvIbumIVBJTZsDQ0G1YMhzoc/y/MEjakx0pLwTmUWznNyzlIlylOqT/Un',
 
-    // 
+    // mon
     'https://thelrourg.net/4/7237942',
     'https://woafoame.net/4/7237941',
     'https://corgouzaptax.com/4/7474716',
     'https://eeptoabs.com/4/7420689',
     'https://thechoansa.com/4/7237907',
-    'https://psomtenga.net/4/7420696',
-    'https://kaushooptawo.net/4/7237921',
-    'https://vekseptaufin.com/4/7420698',
+    // 'https://psomtenga.net/4/7420696',
+    // 'https://kaushooptawo.net/4/7237921',
+    // 'https://vekseptaufin.com/4/7420698',
     // 'https://thomtubsaro.com/4/7436813',
 
-    // // john(declined)
+    // // john(decline)
     // 'https://soupy-user.com/b/3.Vw0_PL3RpIvLbVm/VMJrZRDj0/1_MvzPYQ3TMjztIlyOLbT/UszcNBjPcszdMdjFMG',
     // 'https://soupy-user.com/bS3QVO0.Pi3Kp-v/bUmPVqJDZ_DM0/1/MvzqYa3NMDzzEl0YLeT/UPzlNzjYc/zFMPT/UY',
     // 'https://soupy-user.com/b/3LVu0JP.3/pDvxbrmAVSJxZiDn0F1EM/zEYM3yMWjMgk4/L/TPUazFNqjvcXyOOTDikj',
     // 'https://soupy-user.com/bU3gV.0cPp3dpTvPbGm/V-J/ZXDV0e1kMDzMYG3MMMzTc/yALRT/UlzENpjNc/zINuzvMu',
     // 'https://soupy-user.com/bi3.VB0LPM3cpvvTbVmdVFJnZLDB0a1-MzziYS3jMezAYIylLlTSU-znNojtc/zvNtjjMs',
 
-    // // lucy(blocked)
+    // // lucy(block)
     // 'https://mutedpoetry.com/bV3.Vz0kP/3opVvIb/mYVdJyZoDK0/1ZMyzXYl4kNWzfM/y-LBTkUOzjN/jng/3_MWzSMG',
     // 'https://mutedpoetry.com/b.3zVQ0/P/3Wp_vYbOmQVLJVZ/DN0z1qMEzeYr4fNOzOIn0ULPTrUWztNgjIgZ3rM-jnUp',
     // 'https://mutedpoetry.com/bl3fVE0/P.3/ptvzbcmxVlJDZVDi0-1/MlzYYJ4DNTzWE/2kLmTDU/zXNEjFgS3vM/T/cn',
     // 'https://mutedpoetry.com/bp3fVy0/P.3YpUvebimjV/JtZjDe0/1-M/zaYa4/N-jXk/4oLBTLUOzcNpj/gk2NOHTekv',
 
-    // beta(blocked)
+    // // beta(block)
     // 'https://www.highcpmgate.com/zecjzrgcb?key=cee82a79ba80cedd47dc67c990c43981',
     // 'https://www.highcpmgate.com/dt96vw75f?key=4c755e88f5de59ca53ef34992768986a',
     // 'https://www.highcpmgate.com/gqz2615ye8?key=fa0feaae93d41f849f02500024a84fc8',
@@ -57,10 +58,14 @@ function init() {
     'https://www.highcpmgate.com/spw4aigpi?key=2bfe09727d8f45c16edc5be8ce11fe73',
     'https://www.highcpmgate.com/eeuiwn19?key=a0e1b3b183cb8921ed2aaca0c4cb4490',
 
+    // Emily beta
+    'https://www.highcpmgate.com/unjjajw4d?key=0cf45e318a7b88f458419087aa350ccc',
+    'https://www.highcpmgate.com/z2vva4za?key=58882b5697cf027450b33d8e82ebc4b9',
+    'https://www.highcpmgate.com/hpf7uuustd?key=ef91f1af82729948024a1f219624bdd9',
+
   ];
  
   var didOpen = false;
-  // 监听页面的点击事件
   document.addEventListener("click", function() {
     if (didOpen) {
       return;
