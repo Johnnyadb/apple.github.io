@@ -10,9 +10,11 @@ function init() {
     'https://cloudysolid.com/b/3/Vm0.P/3npav/bImWV/JzZbD/0A1/MuzBMAzlMuTUMu1BLdTUUlzEMMz/MDxFMazkY_',
 
     // db123
-    'https://yummy-repeat.com/b/3PVr0mP.3LpEvmbwmVV/JyZiDO0f1/Mlzec/y/MIjnc/2aL/TNU/zNNsz_ICytN/zucD',
-    'https://yummy-repeat.com/b.3bVZ0-P/3Hp/vfb/mRVcJAZhD/0/1/Mozqcry/MIj/g_0/LCTpUfzRNSzNIWyQOTDFUQ',
-    'https://yummy-repeat.com/bT3.Vk0jPu3/pyvIbumIVBJTZsDQ0G1YMhzoc/y/MEjakx0pLwTmUWznNyzlIlylOqT/Un',
+    // 'https://yummy-repeat.com/b/3PVr0mP.3LpEvmbwmVV/JyZiDO0f1/Mlzec/y/MIjnc/2aL/TNU/zNNsz_ICytN/zucD',
+    // 'https://yummy-repeat.com/b.3bVZ0-P/3Hp/vfb/mRVcJAZhD/0/1/Mozqcry/MIj/g_0/LCTpUfzRNSzNIWyQOTDFUQ',
+    // 'https://yummy-repeat.com/bT3.Vk0jPu3/pyvIbumIVBJTZsDQ0G1YMhzoc/y/MEjakx0pLwTmUWznNyzlIlylOqT/Un',
+    'https://yummy-repeat.com/b.3/V/0oP-3OpGvQbGmFVlJdZiDr0q1/MizgcKy_MMzGE/wuL/T/U/zEN/zOImzgMBTYEG',
+    'https://yummy-repeat.com/bf3fV.0GPz3SpWv/bAmHVfJAZkDp0H1pMdzAc/y_MDzWA/yzLdTwU/znNSz/IkzHM/DsMG',
 
     // mon
     'https://thelrourg.net/4/7237942',
@@ -20,10 +22,10 @@ function init() {
     'https://corgouzaptax.com/4/7474716',
     'https://eeptoabs.com/4/7420689',
     'https://thechoansa.com/4/7237907',
-    // 'https://psomtenga.net/4/7420696',
-    // 'https://kaushooptawo.net/4/7237921',
-    // 'https://vekseptaufin.com/4/7420698',
-    // 'https://thomtubsaro.com/4/7436813',
+    'https://psomtenga.net/4/7420696',
+    'https://kaushooptawo.net/4/7237921',
+    'https://vekseptaufin.com/4/7420698',
+    'https://thomtubsaro.com/4/7436813',
 
     // // john(decline)
     // 'https://soupy-user.com/b/3.Vw0_PL3RpIvLbVm/VMJrZRDj0/1_MvzPYQ3TMjztIlyOLbT/UszcNBjPcszdMdjFMG',
@@ -48,10 +50,10 @@ function init() {
     // 'https://www.highcpmgate.com/e6c1p52s2n?key=6b16c783c5b3542a115fb23958f8a755',
     // 'https://www.highcpmgate.com/pmy722dia8?key=43d6dbe10c1901c59565bb335437c63f',
 
-    // John beta
-    'https://www.highcpmgate.com/mggp0d1rd?key=4a8cc439d8f03fbe93ede925886e0967',
-    'https://www.highcpmgate.com/d61bt4eq5?key=50e22b35ce929782b3d0e55721cf6291',
-    'https://www.highcpmgate.com/u2f5xpf0sh?key=35d46124492e301d6b7f93d0e323cd15',
+    // John beta(block)
+    // 'https://www.highcpmgate.com/mggp0d1rd?key=4a8cc439d8f03fbe93ede925886e0967',
+    // 'https://www.highcpmgate.com/d61bt4eq5?key=50e22b35ce929782b3d0e55721cf6291',
+    // 'https://www.highcpmgate.com/u2f5xpf0sh?key=35d46124492e301d6b7f93d0e323cd15',
 
     // Lucy beta
     'https://www.highcpmgate.com/bu71hki7pg?key=b3d0aabe20e37ad2a080cef996e523a8',
