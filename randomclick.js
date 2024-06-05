@@ -13,11 +13,11 @@ function init() {
     'https://cloudysolid.com/b/3.Ve0QPV3ipdvjbdmhVVJHZ/D/0T1uM_z_c/5DM/j/c/yLLWT/UdzQNBzNkYywNDzCMw',
 
     // db123
-    'https://yummy-repeat.com/bm3/V.0_PU3rpzvOb/mjVtJEZCDO0/1qMcz/cHyMMvjJcH2oLBTrU/zWNfz/IqyeNnz_ci',
-    'https://yummy-repeat.com/bM3.Vg0dP/3fpJv/bxmlVRJ/ZrDd0o1/MtzecvypMAjlg/0/LGTPUwzONIzqIoy/OEDHUS',
-    'https://yummy-repeat.com/bE3.VA0VPb3xpev_bym/VDJZZ_D/0a1kMhzucVyUMMjKkr0/LwT/UizQNizwICyaOIT_Uy',
-    'https://yummy-repeat.com/b.3/V/0oP-3OpGvQbGmFVlJdZiDr0q1/MizgcKy_MMzGE/wuL/T/U/zEN/zOImzgMBTYEG',
-    'https://yummy-repeat.com/bf3fV.0GPz3SpWv/bAmHVfJAZkDp0H1pMdzAc/y_MDzWA/yzLdTwU/znNSz/IkzHM/DsMG',
+    'https://yummy-repeat.com/b.3pVG0cP-3CpRvvb/meVjJKZ/Dz0y1HMtzTcsydMYjycK2sLvT/UnzbNwzJIfyAN/zkcX',
+    'https://yummy-repeat.com/bl3rVt0NP.3/p-vmbKmvV_J-ZbDP0b1qMTz/cYy/MHjigI0CL/TiUVzZNXz/IDy/OEDnUc',
+    'https://yummy-repeat.com/bs3kVK0.Pn3ipjvDbcmlV/JIZCD_0K1IMZzxcqyPMwjXko0/L/ToU/zWNJzCIyyKOJTWUU',
+    'https://yummy-repeat.com/bD3BV.0XPQ3tpUvsbImRVuJbZuD_0L1_MWzechyGMzzZA-yILWTvUczkNfzyIrzWMFDPMa',
+    'https://yummy-repeat.com/b-3.Vy0xPu3Up_vbbUmrVsJMZODG0A1_MazTcQyUMlzkETwHL/T/UCzYNlzQIYzKMoT/Et',
 
     // mon
     // 'https://thelrourg.net/4/7237942',
