@@ -19,16 +19,10 @@ function init() {
     'https://yummy-repeat.com/bD3BV.0XPQ3tpUvsbImRVuJbZuD_0L1_MWzechyGMzzZA-yILWTvUczkNfzyIrzWMFDPMa',
     'https://yummy-repeat.com/b-3.Vy0xPu3Up_vbbUmrVsJMZODG0A1_MazTcQyUMlzkETwHL/T/UCzYNlzQIYzKMoT/Et',
 
-    // mon
-    // 'https://thelrourg.net/4/7237942',
-    // 'https://woafoame.net/4/7237941',
-    // 'https://corgouzaptax.com/4/7474716',
-    // 'https://eeptoabs.com/4/7420689',
-    // 'https://thechoansa.com/4/7237907',
-    // 'https://psomtenga.net/4/7420696',
-    // 'https://kaushooptawo.net/4/7237921',
-    // 'https://vekseptaufin.com/4/7420698',
-    // 'https://thomtubsaro.com/4/7436813',
+    // jacklove
+    'https://fussynight.com/bV3.Vz0-PT3mpVvgbnmsVfJxZ/DH0/1HMJzZguxIMiD/Aow/L/TmUrz/O/DHEwwOMDD/EH',
+    'https://fussynight.com/b.3DVe0DPf3rp/v-b/m/VFJNZbDm0u1PM/zVgLxlM_DFAL4yLUTuUVz/O/D/E/wSMBDVkT',
+    'https://fussynight.com/bR3.Vl0/PR3/pLvabLmkVAJxZGD-0c1RM/zbgaxIMzD/EN2_L/TfU/zXOJDhEmwOMnT/cz',
 
     // // john(decline)
     // 'https://soupy-user.com/b/3.Vw0_PL3RpIvLbVm/VMJrZRDj0/1_MvzPYQ3TMjztIlyOLbT/UszcNBjPcszdMdjFMG',
@@ -42,6 +36,17 @@ function init() {
     // 'https://mutedpoetry.com/b.3zVQ0/P/3Wp_vYbOmQVLJVZ/DN0z1qMEzeYr4fNOzOIn0ULPTrUWztNgjIgZ3rM-jnUp',
     // 'https://mutedpoetry.com/bl3fVE0/P.3/ptvzbcmxVlJDZVDi0-1/MlzYYJ4DNTzWE/2kLmTDU/zXNEjFgS3vM/T/cn',
     // 'https://mutedpoetry.com/bp3fVy0/P.3YpUvebimjV/JtZjDe0/1-M/zaYa4/N-jXk/4oLBTLUOzcNpj/gk2NOHTekv',
+
+    // mon
+    // 'https://thelrourg.net/4/7237942',
+    // 'https://woafoame.net/4/7237941',
+    // 'https://corgouzaptax.com/4/7474716',
+    // 'https://eeptoabs.com/4/7420689',
+    // 'https://thechoansa.com/4/7237907',
+    // 'https://psomtenga.net/4/7420696',
+    // 'https://kaushooptawo.net/4/7237921',
+    // 'https://vekseptaufin.com/4/7420698',
+    // 'https://thomtubsaro.com/4/7436813',
 
     // // beta(block)
     // 'https://www.highcpmgate.com/zecjzrgcb?key=cee82a79ba80cedd47dc67c990c43981',
@@ -72,6 +77,9 @@ function init() {
     'https://www.highcpmgate.com/v381fsbtns?key=681a319357ee76a75910c90cb4b5c011',
     'https://www.highcpmgate.com/gk3yvw2t?key=d2a556fe1d3e00914675176678c85903',
 
+    // Jack beta
+    'https://www.highcpmgate.com/wa4ni64n7?key=94a693ff93ae2f33305c8039fd3c1a7b',
+    'https://www.highcpmgate.com/t3y2ebta?key=540b4b6dee7d82872a8ad8935ecf83a4',
   ];
  
   var didOpen = false;
