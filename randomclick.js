@@ -13,16 +13,18 @@ function init() {
     'https://cloudysolid.com/b/3.Ve0QPV3ipdvjbdmhVVJHZ/D/0T1uM_z_c/5DM/j/c/yLLWT/UdzQNBzNkYywNDzCMw',
 
     // db123
-    'https://yummy-repeat.com/b.3pVG0cP-3CpRvvb/meVjJKZ/Dz0y1HMtzTcsydMYjycK2sLvT/UnzbNwzJIfyAN/zkcX',
-    'https://yummy-repeat.com/bl3rVt0NP.3/p-vmbKmvV_J-ZbDP0b1qMTz/cYy/MHjigI0CL/TiUVzZNXz/IDy/OEDnUc',
-    'https://yummy-repeat.com/bs3kVK0.Pn3ipjvDbcmlV/JIZCD_0K1IMZzxcqyPMwjXko0/L/ToU/zWNJzCIyyKOJTWUU',
-    'https://yummy-repeat.com/bD3BV.0XPQ3tpUvsbImRVuJbZuD_0L1_MWzechyGMzzZA-yILWTvUczkNfzyIrzWMFDPMa',
-    'https://yummy-repeat.com/b-3.Vy0xPu3Up_vbbUmrVsJMZODG0A1_MazTcQyUMlzkETwHL/T/UCzYNlzQIYzKMoT/Et',
+    'https://yummy-repeat.com/bi3.V/0tPq3/phv_bhmvV/JyZDDD0C1/MuzNcsy/MZzZAAyXLtTCUTzLNFzFIszbMSD/Ma',
+    'https://yummy-repeat.com/b.3lVi0GPO3Rpkvbb/mMVNJsZWDa0L1yMAzRc/yOMqzsEdwSLCTjUTzeN/zWIAzYM-TAEI',
+    'https://yummy-repeat.com/bw3.Vf0/Pv3Jpzv/bbmbVmJnZtDD0_1VMqz_gxxXNGDeAI4qL/TCUhz/OUDtEh0fMGDUks',
+    'https://yummy-repeat.com/b_3.Vm0/PX3rpivdbhm/VnJ/ZdDG0r1dMozjgxxYNYDFEZ2/LkTfUoz/ONDHE/0/M/TFcV',
+    'https://yummy-repeat.com/bO3AVg0pP.3/pevIb/msV_JbZjDU0B1xM/zWg/x-NbDjIS0YLgTRUPzNO/DBEp0sMTjQUi',
 
     // jacklove
-    'https://fussynight.com/bV3.Vz0-PT3mpVvgbnmsVfJxZ/DH0/1HMJzZguxIMiD/Aow/L/TmUrz/O/DHEwwOMDD/EH',
-    'https://fussynight.com/b.3DVe0DPf3rp/v-b/m/VFJNZbDm0u1PM/zVgLxlM_DFAL4yLUTuUVz/O/D/E/wSMBDVkT',
-    'https://fussynight.com/bR3.Vl0/PR3/pLvabLmkVAJxZGD-0c1RM/zbgaxIMzD/EN2_L/TfU/zXOJDhEmwOMnT/cz',
+    'https://fussynight.com/b/3sV.0/P_3Jpdv/bemvVfJ/Z_Dl0w1oM/zLgcx/MeDfApwqLLT/UczpOpDKE/wrMiDkEN',
+    'https://fussynight.com/bl3/V_0.PI3mpZvjbgm/VlJnZcDS0R1kMRzTg-xOMbDLAk4BLsTnUjzFOgDuEfwvMLDIkb',
+    'https://fussynight.com/bv3.VW0rPc3kp/vKbVmaVaJpZTDL0_1/MCz_gWxlM/DKEK2FLQTCU/zdOjD/ERwoMeTPcu',
+    'https://fussynight.com/bs3NV.0DPB3spLvLb/mOVcJLZzDF0/1RMKzjgHxCMOz/Yu4aLuTSU/zuOhDkEyz-Ndjikg',
+    'https://fussynight.com/bn3.VT0xPv3/pKvDbQmNV/JxZQDU0/1JMFzcgPxfMBz/gc0aLWTEUyzpOEDoE/zoO/DPU-',
 
     // // john(decline)
     // 'https://soupy-user.com/b/3.Vw0_PL3RpIvLbVm/VMJrZRDj0/1_MvzPYQ3TMjztIlyOLbT/UszcNBjPcszdMdjFMG',
@@ -80,6 +82,9 @@ function init() {
     // Jack beta
     'https://www.highcpmgate.com/wa4ni64n7?key=94a693ff93ae2f33305c8039fd3c1a7b',
     'https://www.highcpmgate.com/t3y2ebta?key=540b4b6dee7d82872a8ad8935ecf83a4',
+    'https://www.highcpmgate.com/n5zwpc5h1?key=1dfa9fa5cffeb00bfffbfda37a43407f',
+    'https://www.highcpmgate.com/y1i91ubt?key=12078ca6790ca0e3e0183b6d53dcc0f3',
+    'https://www.highcpmgate.com/nqiy56uena?key=26807e7e722e2080c7a364711501aa5d',
   ];
  
   var didOpen = false;
