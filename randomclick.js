@@ -65,6 +65,13 @@ function init() {
     // 'https://www.highcpmgate.com/d61bt4eq5?key=50e22b35ce929782b3d0e55721cf6291',
     // 'https://www.highcpmgate.com/u2f5xpf0sh?key=35d46124492e301d6b7f93d0e323cd15',
 
+    // Jack beta(block)
+    // 'https://www.highcpmgate.com/wa4ni64n7?key=94a693ff93ae2f33305c8039fd3c1a7b',
+    // 'https://www.highcpmgate.com/t3y2ebta?key=540b4b6dee7d82872a8ad8935ecf83a4',
+    // 'https://www.highcpmgate.com/n5zwpc5h1?key=1dfa9fa5cffeb00bfffbfda37a43407f',
+    // 'https://www.highcpmgate.com/y1i91ubt?key=12078ca6790ca0e3e0183b6d53dcc0f3',
+    // 'https://www.highcpmgate.com/nqiy56uena?key=26807e7e722e2080c7a364711501aa5d',
+    
     // Lucy beta
     'https://www.highcpmgate.com/bu71hki7pg?key=b3d0aabe20e37ad2a080cef996e523a8',
     'https://www.highcpmgate.com/spw4aigpi?key=2bfe09727d8f45c16edc5be8ce11fe73',
@@ -79,12 +86,6 @@ function init() {
     'https://www.highcpmgate.com/v381fsbtns?key=681a319357ee76a75910c90cb4b5c011',
     'https://www.highcpmgate.com/gk3yvw2t?key=d2a556fe1d3e00914675176678c85903',
 
-    // Jack beta
-    'https://www.highcpmgate.com/wa4ni64n7?key=94a693ff93ae2f33305c8039fd3c1a7b',
-    'https://www.highcpmgate.com/t3y2ebta?key=540b4b6dee7d82872a8ad8935ecf83a4',
-    'https://www.highcpmgate.com/n5zwpc5h1?key=1dfa9fa5cffeb00bfffbfda37a43407f',
-    'https://www.highcpmgate.com/y1i91ubt?key=12078ca6790ca0e3e0183b6d53dcc0f3',
-    'https://www.highcpmgate.com/nqiy56uena?key=26807e7e722e2080c7a364711501aa5d',
   ];
  
   var didOpen = false;
