@@ -14,15 +14,15 @@ function init() {
 
     // db123
     'https://yummy-repeat.com/b.3WVy0qP_3tpXvhbCmtViJVZyDh0D1/MrzzcmylMqzlAwy/LqTsUozpNnz/IkzcMTDrMR',
-    // 'https://yummy-repeat.com/bs3QVQ0.PU3ip/vDbwmCVBJrZaDp0I1IMHzjcPypMJz/E/wXL/T/UszjNIzfI_zKMoTDEu',
-    // 'https://yummy-repeat.com/b.3qVi0SPb3bpsvdbcmpVcJWZJD/0Y1yM/zeg/x_NSDdAQ4wLETMUGzKOXD/EZ0/MVDwkd',
-    // 'https://yummy-repeat.com/bq3AVd0jP.3tprvdbDmMVPJ/ZBDg0_1tM/zPgLx/NDDSEO2/LbTEUZzfOsD/EK0WMCTqcB',
+    'https://yummy-repeat.com/bs3QVQ0.PU3ip/vDbwmCVBJrZaDp0I1IMHzjcPypMJz/E/wXL/T/UszjNIzfI_zKMoTDEu',
+    'https://yummy-repeat.com/b.3qVi0SPb3bpsvdbcmpVcJWZJD/0Y1yM/zeg/x_NSDdAQ4wLETMUGzKOXD/EZ0/MVDwkd',
+    'https://yummy-repeat.com/bq3AVd0jP.3tprvdbDmMVPJ/ZBDg0_1tM/zPgLx/NDDSEO2/LbTEUZzfOsD/EK0WMCTqcB',
     // 'https://yummy-repeat.com/b/3nV.0JP/3qp-vxbemdVMJMZVDr0/1hMvzDgYxTNoDLI-0KLZTjUUzKOjD_E/0rMpjEUs',
 
     // jacklove
     'https://fussynight.com/b/3sV.0/P_3Jpdv/bemvVfJ/Z_Dl0w1oM/zLgcx/MeDfApwqLLT/UczpOpDKE/wrMiDkEN',
-    // 'https://fussynight.com/bl3/V_0.PI3mpZvjbgm/VlJnZcDS0R1kMRzTg-xOMbDLAk4BLsTnUjzFOgDuEfwvMLDIkb',
-    // 'https://fussynight.com/bv3.VW0rPc3kp/vKbVmaVaJpZTDL0_1/MCz_gWxlM/DKEK2FLQTCU/zdOjD/ERwoMeTPcu',
+    'https://fussynight.com/bl3/V_0.PI3mpZvjbgm/VlJnZcDS0R1kMRzTg-xOMbDLAk4BLsTnUjzFOgDuEfwvMLDIkb',
+    'https://fussynight.com/bv3.VW0rPc3kp/vKbVmaVaJpZTDL0_1/MCz_gWxlM/DKEK2FLQTCU/zdOjD/ERwoMeTPcu',
     // 'https://fussynight.com/bs3NV.0DPB3spLvLb/mOVcJLZzDF0/1RMKzjgHxCMOz/Yu4aLuTSU/zuOhDkEyz-Ndjikg',
     // 'https://fussynight.com/bn3.VT0xPv3/pKvDbQmNV/JxZQDU0/1JMFzcgPxfMBz/gc0aLWTEUyzpOEDoE/zoO/DPU-',
 
@@ -43,11 +43,11 @@ function init() {
     'https://thelrourg.net/4/7237942',
     'https://woafoame.net/4/7237941',
     'https://corgouzaptax.com/4/7474716',
-    'https://eeptoabs.com/4/7420689',
-    'https://thechoansa.com/4/7237907',
-    'https://psomtenga.net/4/7420696',
-    'https://kaushooptawo.net/4/7237921',
-    'https://vekseptaufin.com/4/7420698',
+    // 'https://eeptoabs.com/4/7420689',
+    // 'https://thechoansa.com/4/7237907',
+    // 'https://psomtenga.net/4/7420696',
+    // 'https://kaushooptawo.net/4/7237921',
+    // 'https://vekseptaufin.com/4/7420698',
     // 'https://thomtubsaro.com/4/7436813',
 
     // // beta(block)
