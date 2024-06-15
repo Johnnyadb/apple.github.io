@@ -13,18 +13,23 @@ function init() {
     'https://cloudysolid.com/b/3.Ve0QPV3ipdvjbdmhVVJHZ/D/0T1uM_z_c/5DM/j/c/yLLWT/UdzQNBzNkYywNDzCMw',
 
     // db123
-    'https://yummy-repeat.com/b.3WVy0qP_3tpXvhbCmtViJVZyDh0D1/MrzzcmylMqzlAwy/LqTsUozpNnz/IkzcMTDrMR',
-    'https://yummy-repeat.com/bs3QVQ0.PU3ip/vDbwmCVBJrZaDp0I1IMHzjcPypMJz/E/wXL/T/UszjNIzfI_zKMoTDEu',
-    'https://yummy-repeat.com/b.3qVi0SPb3bpsvdbcmpVcJWZJD/0Y1yM/zeg/x_NSDdAQ4wLETMUGzKOXD/EZ0/MVDwkd',
-    'https://yummy-repeat.com/bq3AVd0jP.3tprvdbDmMVPJ/ZBDg0_1tM/zPgLx/NDDSEO2/LbTEUZzfOsD/EK0WMCTqcB',
-    'https://yummy-repeat.com/b/3nV.0JP/3qp-vxbemdVMJMZVDr0/1hMvzDgYxTNoDLI-0KLZTjUUzKOjD_E/0rMpjEUs',
+    'https://classic-bonus.com/bh3.V/0bPf3Vpdvmbsm/V/J/Z/Df0/1/MzzZc/yzM/jlcN2/LmT/Ulz/NIztIGyENbzaco',
+    'https://classic-bonus.com/bo3KVk0.Pf3_pBvibym/VNJZZeDB0D1/MOzZc/yTMoj/gO0PLeTxU/zyNPzvIrywO/DHUc',
+    'https://classic-bonus.com/bK3iVY0dP.3lpMvnbWm/ViJlZYD/0/1hMbzHcNy/Myj/kb0/LYT-UHzcNhzhIdySOLTRUx',
+    'https://classic-bonus.com/bz3MV.0tPO3QpxvobcmAV/JxZcD/0/1oM/z_cfyJMWzhAByNLeToUdzLNVz/IJzaMhDbMH',
+    'https://classic-bonus.com/bc3.V/0pPI3NpBv/bAmDV/JvZPDY0w1mMxzvckyKMNzqE/wML/TZULzcNTztIjz/M/TQE_',
+    'https://classic-bonus.com/b/3/Vs0.Pt3epavGbRmuVNJbZFD/0S1NM/zog/xvNCDLAo4/L/TCUnz-OyD/E/0QMWDak-',
+    'https://classic-bonus.com/bl3PV/0.P/3xpMvTbymAVfJ/ZcD/0X1XMmz/gbxWNBDBE/2zLuT/Ulz/O-DNEY0ZMuTVcS',
+    'https://classic-bonus.com/bl3.Vk0sPU3cpPv_bfmeVQJpZfDR0C1uMqzYglxHN/DcI_0NLlThUtz/OLDYEa0/MZjUUC',
 
     // jacklove
     'https://fussynight.com/b/3sV.0/P_3Jpdv/bemvVfJ/Z_Dl0w1oM/zLgcx/MeDfApwqLLT/UczpOpDKE/wrMiDkEN',
     'https://fussynight.com/bl3/V_0.PI3mpZvjbgm/VlJnZcDS0R1kMRzTg-xOMbDLAk4BLsTnUjzFOgDuEfwvMLDIkb',
     'https://fussynight.com/bv3.VW0rPc3kp/vKbVmaVaJpZTDL0_1/MCz_gWxlM/DKEK2FLQTCU/zdOjD/ERwoMeTPcu',
-    'https://fussynight.com/bs3NV.0DPB3spLvLb/mOVcJLZzDF0/1RMKzjgHxCMOz/Yu4aLuTSU/zuOhDkEyz-Ndjikg',
-    'https://fussynight.com/bn3.VT0xPv3/pKvDbQmNV/JxZQDU0/1JMFzcgPxfMBz/gc0aLWTEUyzpOEDoE/zoO/DPU-',
+    'https://indolent-ability.com/bj3XVG0.PM3sp/v/bNmgVmJ/Z/Di0I1yMnz_gzxWMLzfY_4SLZT/U/z/OLDxE/zmNcj-kq',
+    'https://indolent-ability.com/bf3gVj0.P/3Bp/vXbOmpV/J_ZlDm0M1eMJzaghxQMEzBgJ0/LcTdU_zMOtDdERz/ORD-UM',
+    'https://indolent-ability.com/b/3FV.0AP/3hpBvIb/mgVqJ/Z/DI0S1RM/zGk/0iOfDwkAyuLyT/UdzLOJT/Qn4aOHTYMH',
+    'https://indolent-ability.com/b.3VVw0jPc3CpWvAbDmWVDJEZwDu0r1-Maz/kL0/OvTgANwXL/T/UkzXOmT/QR5/MkDlE_',
 
     // // john(decline)
     // 'https://soupy-user.com/b/3.Vw0_PL3RpIvLbVm/VMJrZRDj0/1_MvzPYQ3TMjztIlyOLbT/UszcNBjPcszdMdjFMG',
@@ -40,15 +45,15 @@ function init() {
     // 'https://mutedpoetry.com/bp3fVy0/P.3YpUvebimjV/JtZjDe0/1-M/zaYa4/N-jXk/4oLBTLUOzcNpj/gk2NOHTekv',
 
     // mon
-    // 'https://thelrourg.net/4/7237942',
-    // 'https://woafoame.net/4/7237941',
-    // 'https://corgouzaptax.com/4/7474716',
-    // 'https://eeptoabs.com/4/7420689',
-    // 'https://thechoansa.com/4/7237907',
-    // 'https://psomtenga.net/4/7420696',
-    // 'https://kaushooptawo.net/4/7237921',
-    // 'https://vekseptaufin.com/4/7420698',
-    // 'https://thomtubsaro.com/4/7436813',
+    'https://thelrourg.net/4/7237942',
+    'https://woafoame.net/4/7237941',
+    'https://corgouzaptax.com/4/7474716',
+    'https://eeptoabs.com/4/7420689',
+    'https://thechoansa.com/4/7237907',
+    'https://psomtenga.net/4/7420696',
+    'https://kaushooptawo.net/4/7237921',
+    'https://vekseptaufin.com/4/7420698',
+    'https://thomtubsaro.com/4/7436813',
 
     // // beta(block)
     // 'https://www.highcpmgate.com/zecjzrgcb?key=cee82a79ba80cedd47dc67c990c43981',
@@ -78,13 +83,18 @@ function init() {
     'https://www.highcpmgate.com/eeuiwn19?key=a0e1b3b183cb8921ed2aaca0c4cb4490',
     'https://www.highcpmgate.com/q5kx6qdha?key=ba303090626471c9f450339de19b98be',
     'https://www.highcpmgate.com/csdvh2ud?key=cb18caab3a96de3cec11deee57f1e7bc',
+    'https://www.highrevenuenetwork.com/sinsdiqgi9?key=53e9c847f7c5dd151315203caf1e9d52',
+    'https://www.highrevenuenetwork.com/p5tww3iey?key=79cf82d37bbc5d541d8b9f1cd490e72f',
+    'https://www.highrevenuenetwork.com/snzzu32zv?key=51d98fb2c88138ff52842ebbdf5e7208',
+    'https://www.highrevenuenetwork.com/dei9cpf8?key=de5a27a88f4a7d445ec6d8223b295d66',
+    'https://www.highrevenuenetwork.com/zr0crh68?key=799ba5664e70bdf781b556024bd3e3a7',
 
     // Emily beta
-    'https://www.highcpmgate.com/unjjajw4d?key=0cf45e318a7b88f458419087aa350ccc',
-    'https://www.highcpmgate.com/z2vva4za?key=58882b5697cf027450b33d8e82ebc4b9',
-    'https://www.highcpmgate.com/hpf7uuustd?key=ef91f1af82729948024a1f219624bdd9',
-    'https://www.highcpmgate.com/v381fsbtns?key=681a319357ee76a75910c90cb4b5c011',
-    'https://www.highcpmgate.com/gk3yvw2t?key=d2a556fe1d3e00914675176678c85903',
+    'https://obliquecensortend.com/unjjajw4d?key=0cf45e318a7b88f458419087aa350ccc',
+    'https://obliquecensortend.com/z2vva4za?key=58882b5697cf027450b33d8e82ebc4b9',
+    'https://obliquecensortend.com/hpf7uuustd?key=ef91f1af82729948024a1f219624bdd9',
+    'https://obliquecensortend.com/v381fsbtns?key=681a319357ee76a75910c90cb4b5c011',
+    'https://obliquecensortend.com/gk3yvw2t?key=d2a556fe1d3e00914675176678c85903',
 
   ];
  
