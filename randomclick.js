@@ -23,9 +23,9 @@ function init() {
     'https://classic-bonus.com/bl3.Vk0sPU3cpPv_bfmeVQJpZfDR0C1uMqzYglxHN/DcI_0NLlThUtz/OLDYEa0/MZjUUC',
 
     // jacklove
-    'https://fussynight.com/b/3sV.0/P_3Jpdv/bemvVfJ/Z_Dl0w1oM/zLgcx/MeDfApwqLLT/UczpOpDKE/wrMiDkEN',
-    'https://fussynight.com/bl3/V_0.PI3mpZvjbgm/VlJnZcDS0R1kMRzTg-xOMbDLAk4BLsTnUjzFOgDuEfwvMLDIkb',
-    'https://fussynight.com/bv3.VW0rPc3kp/vKbVmaVaJpZTDL0_1/MCz_gWxlM/DKEK2FLQTCU/zdOjD/ERwoMeTPcu',
+    'https://indolent-ability.com/b/3.VE0IP/3PpJv/bym/V/JkZ/D/0R1QM/zjg/xUM_DvADw/LaTJUxzHOsD/E_wBM_DHEe',
+    'https://indolent-ability.com/bO3.VH0SPU3Xprv/bKmeVyJvZIDX0/1mMBzEgHxKMRD_A/4aLpT_Uhz/OfDEEWwXMtD-kq',
+    'https://indolent-ability.com/b.3pVY0yPc3RpXvebzmjVlJQZSD/0J1jM_zDgKxOM/D/EC2TLkT_UMzOOKD/E/wZM/Tect',
     'https://indolent-ability.com/bj3XVG0.PM3sp/v/bNmgVmJ/Z/Di0I1yMnz_gzxWMLzfY_4SLZT/U/z/OLDxE/zmNcj-kq',
     'https://indolent-ability.com/bf3gVj0.P/3Bp/vXbOmpV/J_ZlDm0M1eMJzaghxQMEzBgJ0/LcTdU_zMOtDdERz/ORD-UM',
     'https://indolent-ability.com/b/3FV.0AP/3hpBvIb/mgVqJ/Z/DI0S1RM/zGk/0iOfDwkAyuLyT/UdzLOJT/Qn4aOHTYMH',
@@ -50,10 +50,12 @@ function init() {
     'https://corgouzaptax.com/4/7474716',
     'https://eeptoabs.com/4/7420689',
     'https://thechoansa.com/4/7237907',
+
     'https://psomtenga.net/4/7420696',
     'https://kaushooptawo.net/4/7237921',
     'https://vekseptaufin.com/4/7420698',
     'https://thomtubsaro.com/4/7436813',
+    'https://grushoungy.com/4/7614690',
 
     // // beta(block)
     // 'https://www.highcpmgate.com/zecjzrgcb?key=cee82a79ba80cedd47dc67c990c43981',
@@ -78,11 +80,12 @@ function init() {
     // 'https://www.highcpmgate.com/nqiy56uena?key=26807e7e722e2080c7a364711501aa5d',
     
     // Lucy beta
-    'https://www.highcpmgate.com/bu71hki7pg?key=b3d0aabe20e37ad2a080cef996e523a8',
-    'https://www.highcpmgate.com/spw4aigpi?key=2bfe09727d8f45c16edc5be8ce11fe73',
-    'https://www.highcpmgate.com/eeuiwn19?key=a0e1b3b183cb8921ed2aaca0c4cb4490',
-    'https://www.highcpmgate.com/q5kx6qdha?key=ba303090626471c9f450339de19b98be',
-    'https://www.highcpmgate.com/csdvh2ud?key=cb18caab3a96de3cec11deee57f1e7bc',
+    'https://www.highrevenuenetwork.com/bu71hki7pg?key=b3d0aabe20e37ad2a080cef996e523a8',
+    'https://www.highrevenuenetwork.com/spw4aigpi?key=2bfe09727d8f45c16edc5be8ce11fe73',
+    'https://www.highrevenuenetwork.com/eeuiwn19?key=a0e1b3b183cb8921ed2aaca0c4cb4490',
+    'https://www.highrevenuenetwork.com/q5kx6qdha?key=ba303090626471c9f450339de19b98be',
+    'https://www.highrevenuenetwork.com/csdvh2ud?key=cb18caab3a96de3cec11deee57f1e7bc',
+
     'https://www.highrevenuenetwork.com/sinsdiqgi9?key=53e9c847f7c5dd151315203caf1e9d52',
     'https://www.highrevenuenetwork.com/p5tww3iey?key=79cf82d37bbc5d541d8b9f1cd490e72f',
     'https://www.highrevenuenetwork.com/snzzu32zv?key=51d98fb2c88138ff52842ebbdf5e7208',
