@@ -18,9 +18,9 @@ function init() {
     'https://classic-bonus.com/bK3iVY0dP.3lpMvnbWm/ViJlZYD/0/1hMbzHcNy/Myj/kb0/LYT-UHzcNhzhIdySOLTRUx',
     'https://classic-bonus.com/bz3MV.0tPO3QpxvobcmAV/JxZcD/0/1oM/z_cfyJMWzhAByNLeToUdzLNVz/IJzaMhDbMH',
     'https://classic-bonus.com/bc3.V/0pPI3NpBv/bAmDV/JvZPDY0w1mMxzvckyKMNzqE/wML/TZULzcNTztIjz/M/TQE_',
-    // 'https://classic-bonus.com/b/3/Vs0.Pt3epavGbRmuVNJbZFD/0S1NM/zog/xvNCDLAo4/L/TCUnz-OyD/E/0QMWDak-',
-    // 'https://classic-bonus.com/bl3PV/0.P/3xpMvTbymAVfJ/ZcD/0X1XMmz/gbxWNBDBE/2zLuT/Ulz/O-DNEY0ZMuTVcS',
-    // 'https://classic-bonus.com/bl3.Vk0sPU3cpPv_bfmeVQJpZfDR0C1uMqzYglxHN/DcI_0NLlThUtz/OLDYEa0/MZjUUC',
+    'https://classic-bonus.com/b/3/Vs0.Pt3epavGbRmuVNJbZFD/0S1NM/zog/xvNCDLAo4/L/TCUnz-OyD/E/0QMWDak-',
+    'https://classic-bonus.com/bl3PV/0.P/3xpMvTbymAVfJ/ZcD/0X1XMmz/gbxWNBDBE/2zLuT/Ulz/O-DNEY0ZMuTVcS',
+    'https://classic-bonus.com/bl3.Vk0sPU3cpPv_bfmeVQJpZfDR0C1uMqzYglxHN/DcI_0NLlThUtz/OLDYEa0/MZjUUC',
 
     // jacklove
     'https://indolent-ability.com/b/3.VE0IP/3PpJv/bym/V/JkZ/D/0R1QM/zjg/xUM_DvADw/LaTJUxzHOsD/E_wBM_DHEe',
@@ -28,8 +28,8 @@ function init() {
     'https://indolent-ability.com/b.3pVY0yPc3RpXvebzmjVlJQZSD/0J1jM_zDgKxOM/D/EC2TLkT_UMzOOKD/E/wZM/Tect',
     'https://indolent-ability.com/bI3XVL0OP.3/pGvnb_mrVkJuZ/Dv0x1DMyzlg/xrM/zdYt4ZLtTKU-z/O_DzExzKNzjOkJ',
     'https://indolent-ability.com/bJ3ZV.0PP/3zpBvAbwmRVjJEZcD/0/1/M/zBgBxfM/zvgn0bLGTZUlzjOLDGEKzsOcDnUL',
-    // 'https://indolent-ability.com/b.3iVQ0zPB3/p/vybBmbVPJBZWD/0p1jMnz/kl0_OlDfktyOLATCUaz/OFTdQX4gOQT-Me',
-    // 'https://indolent-ability.com/bn3mVV0oP.3/p/vBbhmRVqJ/Z/DF0W1ZMxzekF0AO/TrA-w/LCTGUQziOnTtQn5/MGDrEU',
+    'https://indolent-ability.com/b.3iVQ0zPB3/p/vybBmbVPJBZWD/0p1jMnz/kl0_OlDfktyOLATCUaz/OFTdQX4gOQT-Me',
+    'https://indolent-ability.com/bn3mVV0oP.3/p/vBbhmRVqJ/Z/DF0W1ZMxzekF0AO/TrA-w/LCTGUQziOnTtQn5/MGDrEU',
 
     // // john(decline)
     // 'https://soupy-user.com/b/3.Vw0_PL3RpIvLbVm/VMJrZRDj0/1_MvzPYQ3TMjztIlyOLbT/UszcNBjPcszdMdjFMG',
@@ -92,12 +92,12 @@ function init() {
     'https://www.highrevenuenetwork.com/dei9cpf8?key=de5a27a88f4a7d445ec6d8223b295d66',
     'https://www.highrevenuenetwork.com/zr0crh68?key=799ba5664e70bdf781b556024bd3e3a7',
 
-    // Emily beta
-    'https://obliquecensortend.com/unjjajw4d?key=0cf45e318a7b88f458419087aa350ccc',
-    'https://obliquecensortend.com/z2vva4za?key=58882b5697cf027450b33d8e82ebc4b9',
-    'https://obliquecensortend.com/hpf7uuustd?key=ef91f1af82729948024a1f219624bdd9',
-    'https://obliquecensortend.com/v381fsbtns?key=681a319357ee76a75910c90cb4b5c011',
-    'https://obliquecensortend.com/gk3yvw2t?key=d2a556fe1d3e00914675176678c85903',
+    // Emily beta (blocked)
+    // 'https://obliquecensortend.com/unjjajw4d?key=0cf45e318a7b88f458419087aa350ccc',
+    // 'https://obliquecensortend.com/z2vva4za?key=58882b5697cf027450b33d8e82ebc4b9',
+    // 'https://obliquecensortend.com/hpf7uuustd?key=ef91f1af82729948024a1f219624bdd9',
+    // 'https://obliquecensortend.com/v381fsbtns?key=681a319357ee76a75910c90cb4b5c011',
+    // 'https://obliquecensortend.com/gk3yvw2t?key=d2a556fe1d3e00914675176678c85903',
 
   ];
  
