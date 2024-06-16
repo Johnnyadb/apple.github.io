@@ -6,6 +6,7 @@ function init() {
     'https://cloudysolid.com/bt3.VD0/PY3qplvhb/mHVvJIZWDM0A1ZMLT-k/5/NZDcAjwfLhTAUexjOfTjk_0fMRDAEi',
     'https://cloudysolid.com/b.3OVq0fPW3lpNvobMmAVMJjZBDF0/1rM_Tnkk5RNwDRAJ4nLGTeUnxRObTNkq0/M/D/k_',
     'https://cloudysolid.com/b/3/V.0/Pe3NpnvrbFmSViJXZYDB0w1/MXzTEA0HOiTaUw5ALVT/USzvM/TwQJ5/NRjeAW',
+
     'https://cloudysolid.com/bf3wV/0.PQ3/pYvObTmMVkJrZND-0l1gM_zaMcxZNuj/EgzfLETnULzlM/z/E/2/MITUQZ',
     'https://cloudysolid.com/bs3fVP0jP.3xpqvzbImmVkJPZ/Dp0x1/MZzfMuzgMFTJMQ1rLOTfU/zCM/zGMHx/Maz-YI',
     'https://cloudysolid.com/b.3MVw0hP/3rpRv/bBmcV/J/ZcDR0K1cM/z/cm5_MWjwU/2FLmTsUYztNvzNkgy/NLTXcb',
@@ -13,23 +14,30 @@ function init() {
     'https://cloudysolid.com/b/3.Ve0QPV3ipdvjbdmhVVJHZ/D/0T1uM_z_c/5DM/j/c/yLLWT/UdzQNBzNkYywNDzCMw',
 
     // db123
-    'https://classic-bonus.com/bh3.V/0bPf3Vpdvmbsm/V/J/Z/Df0/1/MzzZc/yzM/jlcN2/LmT/Ulz/NIztIGyENbzaco',
-    'https://classic-bonus.com/bo3KVk0.Pf3_pBvibym/VNJZZeDB0D1/MOzZc/yTMoj/gO0PLeTxU/zyNPzvIrywO/DHUc',
-    'https://classic-bonus.com/bK3iVY0dP.3lpMvnbWm/ViJlZYD/0/1hMbzHcNy/Myj/kb0/LYT-UHzcNhzhIdySOLTRUx',
-    'https://classic-bonus.com/bz3MV.0tPO3QpxvobcmAV/JxZcD/0/1oM/z_cfyJMWzhAByNLeToUdzLNVz/IJzaMhDbMH',
-    'https://classic-bonus.com/bc3.V/0pPI3NpBv/bAmDV/JvZPDY0w1mMxzvckyKMNzqE/wML/TZULzcNTztIjz/M/TQE_',
-    'https://classic-bonus.com/b/3/Vs0.Pt3epavGbRmuVNJbZFD/0S1NM/zog/xvNCDLAo4/L/TCUnz-OyD/E/0QMWDak-',
-    'https://classic-bonus.com/bl3PV/0.P/3xpMvTbymAVfJ/ZcD/0X1XMmz/gbxWNBDBE/2zLuT/Ulz/O-DNEY0ZMuTVcS',
-    'https://classic-bonus.com/bl3.Vk0sPU3cpPv_bfmeVQJpZfDR0C1uMqzYglxHN/DcI_0NLlThUtz/OLDYEa0/MZjUUC',
+    'https://classic-bonus.com/b/3JVg0.PI3xpKvtbJm_VwJSZADQ0/1oMDzecuy/Maj/cJ2kLsTrU/z/NfziIJynNqz/cY',
+    'https://classic-bonus.com/bo3FVD0.Pb3_pSvkbBmkVaJPZXDK0i1zMYzFcMyGMEjMgw0RLiT-UxzaN/zrI/yUO-D/UQ',
+    'https://classic-bonus.com/bu3_Vt0.Py3OpavUbGmsVHJVZJD/0/1xMVzecpy/MHj/kx0jLfTvUTzGNRzrIUy/OYTEU-',
+    'https://classic-bonus.com/bV3.Vy0NPF3ip/vDbkmdVyJ/ZQDN0C1EMazncjyEMLz-AtylLFTOUvzANezCIMzDMzDAMz',
+    'https://classic-bonus.com/bz3_V.0gPR3GptvnbRmvVZJfZ-Dw0l1/MuzecoylMwzAEiwWLeTzUrzMNqzeI/zpMWTpEM',
+
+    'https://classic-bonus.com/bo3pV.0mPR3opGv/b/mDVlJyZlDA0y1XMRzfgsxNN/DHA/4DLBTwUkzOOZDfEZ0GMeD-kg',
+    'https://classic-bonus.com/b.3pV/0/Pn3BpKvGbbmQVjJfZaDs0b1cMyzXgoxBNCDFEo2rL/TJUyzXObDHE-0/MyTicN',
+    'https://classic-bonus.com/b.3/Ve0hPs3IpLv/bCmIVaJgZUDJ0n1AM/zggix/NGD/IO0CLnTgUhzeOLD/E-0-M/jiUY',
+    'https://classic-bonus.com/b.3/Vo0/PC3GpNv-b_mHVlJuZ/Dr0t1DMnzdk_1uN/zWM/2zLRTyUfzuOcT/UL3CM/zlcK',
+    'https://classic-bonus.com/bu3RVt0kP.3MpQvHbRmVVZJ/ZlDT0h1VMIzMks1/N_zmQn0/LoTAUbzfODTxUz3PNdD/U-',
 
     // jacklove
-    'https://indolent-ability.com/b/3.VE0IP/3PpJv/bym/V/JkZ/D/0R1QM/zjg/xUM_DvADw/LaTJUxzHOsD/E_wBM_DHEe',
-    'https://indolent-ability.com/bO3.VH0SPU3Xprv/bKmeVyJvZIDX0/1mMBzEgHxKMRD_A/4aLpT_Uhz/OfDEEWwXMtD-kq',
-    'https://indolent-ability.com/b.3pVY0yPc3RpXvebzmjVlJQZSD/0J1jM_zDgKxOM/D/EC2TLkT_UMzOOKD/E/wZM/Tect',
-    'https://indolent-ability.com/bI3XVL0OP.3/pGvnb_mrVkJuZ/Dv0x1DMyzlg/xrM/zdYt4ZLtTKU-z/O_DzExzKNzjOkJ',
-    'https://indolent-ability.com/bJ3ZV.0PP/3zpBvAbwmRVjJEZcD/0/1/M/zBgBxfM/zvgn0bLGTZUlzjOLDGEKzsOcDnUL',
-    'https://indolent-ability.com/b.3iVQ0zPB3/p/vybBmbVPJBZWD/0p1jMnz/kl0_OlDfktyOLATCUaz/OFTdQX4gOQT-Me',
-    'https://indolent-ability.com/bn3mVV0oP.3/p/vBbhmRVqJ/Z/DF0W1ZMxzekF0AO/TrA-w/LCTGUQziOnTtQn5/MGDrEU',
+    'https://indolent-ability.com/bC3zVD0.Pb3XpRvrbwmwVfJ/ZLDF0/1/Mozsgxx/M/DVAJwwLKTZUizyORD-EAwKMyDzEY',
+    'https://indolent-ability.com/b.3mVR0aPg3fp/vdbYmvVkJnZODI0/1lMGz/gLxPMDDQAc4-LGT/UYz_OkD/EswdMEDNkS',
+    'https://indolent-ability.com/bL3-VY0.Pu3Qp/vQbbmAV/JPZxDe0Y1vMPz/gvxlMEDtE/2lLpTDUHz/OQDWEqwCMyTbcZ',
+    'https://indolent-ability.com/bx3SV.0iPo3Pp/v/bVmAV-JAZbDx0/1/MazugExVMrzZY_4wL/TMUozKO/DdEnzuNIjIkk',
+    'https://indolent-ability.com/bO3/VG0.PA3HpQvibJm/VmJeZSD-0c1JMxz/gLx/MDzEgo0GLyTNUtzoODDbEPzYOVD-Ue',
+
+    'https://indolent-ability.com/b_3gV.0hPE3/pavHbqm/VdJeZvDy0K1_Mtzpk/0kODDakLyCLQT/UAzKODTXQa4vOJTUMs',
+    'https://indolent-ability.com/b.3GVT0/Pm3lpOvAbfmWVXJLZnDS0O1iM/zWkN0fOvTJAEw_L/TLUqz_O/TXQo5sMUDaEB',
+    'https://indolent-ability.com/b/3eVf0JP.3/p/v-bdmFVRJUZADU0d1LMqz/kZ1oN/zwUHy/LXTGURziOPTRUu3AN-TbMA',
+    'https://indolent-ability.com/b.3/Vi0ZP/3Zpsv/bnmeVhJRZcDU0m1-MTzBkw1xNKzKYZwBL/TNUizxOXToU/3eNEj/Ey',
+    'https://indolent-ability.com/b.3AVj0eP/3SpQvFbnmWVVJRZDDk0a1FM/z-km1jNxzjYy4iLITSUBzJOdToUF3rNQj/km',
 
     // // john(decline)
     // 'https://soupy-user.com/b/3.Vw0_PL3RpIvLbVm/VMJrZRDj0/1_MvzPYQ3TMjztIlyOLbT/UszcNBjPcszdMdjFMG',
