@@ -14,9 +14,9 @@ function init() {
     'https://cloudysolid.com/b/3.Ve0QPV3ipdvjbdmhVVJHZ/D/0T1uM_z_c/5DM/j/c/yLLWT/UdzQNBzNkYywNDzCMw',
 
     // db123
-    // 'https://classic-bonus.com/b/3JVg0.PI3xpKvtbJm_VwJSZADQ0/1oMDzecuy/Maj/cJ2kLsTrU/z/NfziIJynNqz/cY',
-    // 'https://classic-bonus.com/bo3FVD0.Pb3_pSvkbBmkVaJPZXDK0i1zMYzFcMyGMEjMgw0RLiT-UxzaN/zrI/yUO-D/UQ',
-    // 'https://classic-bonus.com/bu3_Vt0.Py3OpavUbGmsVHJVZJD/0/1xMVzecpy/MHj/kx0jLfTvUTzGNRzrIUy/OYTEU-',
+    'https://classic-bonus.com/b/3JVg0.PI3xpKvtbJm_VwJSZADQ0/1oMDzecuy/Maj/cJ2kLsTrU/z/NfziIJynNqz/cY',
+    'https://classic-bonus.com/bo3FVD0.Pb3_pSvkbBmkVaJPZXDK0i1zMYzFcMyGMEjMgw0RLiT-UxzaN/zrI/yUO-D/UQ',
+    'https://classic-bonus.com/bu3_Vt0.Py3OpavUbGmsVHJVZJD/0/1xMVzecpy/MHj/kx0jLfTvUTzGNRzrIUy/OYTEU-',
     // 'https://classic-bonus.com/bV3.Vy0NPF3ip/vDbkmdVyJ/ZQDN0C1EMazncjyEMLz-AtylLFTOUvzANezCIMzDMzDAMz',
     // 'https://classic-bonus.com/bz3_V.0gPR3GptvnbRmvVZJfZ-Dw0l1/MuzecoylMwzAEiwWLeTzUrzMNqzeI/zpMWTpEM',
 
@@ -27,8 +27,8 @@ function init() {
     // 'https://classic-bonus.com/bu3RVt0kP.3MpQvHbRmVVZJ/ZlDT0h1VMIzMks1/N_zmQn0/LoTAUbzfODTxUz3PNdD/U-',
 
     // jacklove
-    // 'https://indolent-ability.com/bC3zVD0.Pb3XpRvrbwmwVfJ/ZLDF0/1/Mozsgxx/M/DVAJwwLKTZUizyORD-EAwKMyDzEY',
-    // 'https://indolent-ability.com/b.3mVR0aPg3fp/vdbYmvVkJnZODI0/1lMGz/gLxPMDDQAc4-LGT/UYz_OkD/EswdMEDNkS',
+    'https://indolent-ability.com/bC3zVD0.Pb3XpRvrbwmwVfJ/ZLDF0/1/Mozsgxx/M/DVAJwwLKTZUizyORD-EAwKMyDzEY',
+    'https://indolent-ability.com/b.3mVR0aPg3fp/vdbYmvVkJnZODI0/1lMGz/gLxPMDDQAc4-LGT/UYz_OkD/EswdMEDNkS',
     // 'https://indolent-ability.com/bL3-VY0.Pu3Qp/vQbbmAV/JPZxDe0Y1vMPz/gvxlMEDtE/2lLpTDUHz/OQDWEqwCMyTbcZ',
     // 'https://indolent-ability.com/bx3SV.0iPo3Pp/v/bVmAV-JAZbDx0/1/MazugExVMrzZY_4wL/TMUozKO/DdEnzuNIjIkk',
     // 'https://indolent-ability.com/bO3/VG0.PA3HpQvibJm/VmJeZSD-0c1JMxz/gLx/MDzEgo0GLyTNUtzoODDbEPzYOVD-Ue',
