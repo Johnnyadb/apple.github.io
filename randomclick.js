@@ -16,9 +16,9 @@ function init() {
     // db123
     'https://classic-bonus.com/b/3VV/0kP.3YpJvhbUmlVeJ/ZMDz0a1AMmz_cyy/M/jFcD2mLsTLUbz/NqzzIiyzNQzQcT',
     'https://classic-bonus.com/bf3tVI0.P/3/pgvWbHm/VKJsZUDA0G1/MWz/cZyVMGj/gW0PLjTHU-zFNfzKINyFOvDyUj',
-    'https://classic-bonus.com/bT3RVo0tP.3Lpwvhb/m/VjJDZcD/0W1vMIzrcYyyMkjRkd0HLETyU/zfNjzkIlywOwT_UL',
-    'https://classic-bonus.com/bp3EV.0jPu3WpOv/bkmuVHJ/ZSDd0p1LMQzacuyWMgztAVyvL-T-UYzhNLzPILzcM/DDMd',
-    'https://classic-bonus.com/bF3WVz0.Pa3VptvqbXmbVzJTZ/Dp0v1uMCz/ceylMWzpE/wcLVTiUvz/NrzjIHz/MjT-EB',
+    // 'https://classic-bonus.com/bT3RVo0tP.3Lpwvhb/m/VjJDZcD/0W1vMIzrcYyyMkjRkd0HLETyU/zfNjzkIlywOwT_UL',
+    // 'https://classic-bonus.com/bp3EV.0jPu3WpOv/bkmuVHJ/ZSDd0p1LMQzacuyWMgztAVyvL-T-UYzhNLzPILzcM/DDMd',
+    // 'https://classic-bonus.com/bF3WVz0.Pa3VptvqbXmbVzJTZ/Dp0v1uMCz/ceylMWzpE/wcLVTiUvz/NrzjIHz/MjT-EB',
 
     // 'https://classic-bonus.com/b_3TV.0fPv3Zp/vTbzmdV/J_ZRDr0/1oMyz/gaxENzDMA/4/L/T_UZzaOYDREZ0JMIDlkq',
     // 'https://classic-bonus.com/b.3RVX0/P_3ipavkbBm/V/JoZqDQ0t1-MJzvg/x/NWDpEe2FLNTRUEzSO/DtE/0MMxTMca',
@@ -30,8 +30,8 @@ function init() {
     'https://indolent-ability.com/bC3zVD0.Pb3XpRvrbwmwVfJ/ZLDF0/1/Mozsgxx/M/DVAJwwLKTZUizyORD-EAwKMyDzEY',
     'https://indolent-ability.com/b.3mVR0aPg3fp/vdbYmvVkJnZODI0/1lMGz/gLxPMDDQAc4-LGT/UYz_OkD/EswdMEDNkS',
     'https://indolent-ability.com/bL3-VY0.Pu3Qp/vQbbmAV/JPZxDe0Y1vMPz/gvxlMEDtE/2lLpTDUHz/OQDWEqwCMyTbcZ',
-    'https://indolent-ability.com/bx3SV.0iPo3Pp/v/bVmAV-JAZbDx0/1/MazugExVMrzZY_4wL/TMUozKO/DdEnzuNIjIkk',
-    'https://indolent-ability.com/bO3/VG0.PA3HpQvibJm/VmJeZSD-0c1JMxz/gLx/MDzEgo0GLyTNUtzoODDbEPzYOVD-Ue',
+    // 'https://indolent-ability.com/bx3SV.0iPo3Pp/v/bVmAV-JAZbDx0/1/MazugExVMrzZY_4wL/TMUozKO/DdEnzuNIjIkk',
+    // 'https://indolent-ability.com/bO3/VG0.PA3HpQvibJm/VmJeZSD-0c1JMxz/gLx/MDzEgo0GLyTNUtzoODDbEPzYOVD-Ue',
 
     // 'https://indolent-ability.com/b_3gV.0hPE3/pavHbqm/VdJeZvDy0K1_Mtzpk/0kODDakLyCLQT/UAzKODTXQa4vOJTUMs',
     // 'https://indolent-ability.com/b.3GVT0/Pm3lpOvAbfmWVXJLZnDS0O1iM/zWkN0fOvTJAEw_L/TLUqz_O/TXQo5sMUDaEB',
