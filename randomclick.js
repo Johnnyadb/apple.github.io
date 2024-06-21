@@ -14,14 +14,14 @@ function init() {
     'https://cloudysolid.com/b/3.Ve0QPV3ipdvjbdmhVVJHZ/D/0T1uM_z_c/5DM/j/c/yLLWT/UdzQNBzNkYywNDzCMw',
 
     // db123
-    'https://classic-bonus.com/b/3VV/0kP.3YpJvhbUmlVeJ/ZMDz0a1AMmz_cyy/M/jFcD2mLsTLUbz/NqzzIiyzNQzQcT',
-    'https://classic-bonus.com/bf3tVI0.P/3/pgvWbHm/VKJsZUDA0G1/MWz/cZyVMGj/gW0PLjTHU-zFNfzKINyFOvDyUj',
+    // 'https://classic-bonus.com/b/3VV/0kP.3YpJvhbUmlVeJ/ZMDz0a1AMmz_cyy/M/jFcD2mLsTLUbz/NqzzIiyzNQzQcT',
+    // 'https://classic-bonus.com/bf3tVI0.P/3/pgvWbHm/VKJsZUDA0G1/MWz/cZyVMGj/gW0PLjTHU-zFNfzKINyFOvDyUj',
     // 'https://classic-bonus.com/bT3RVo0tP.3Lpwvhb/m/VjJDZcD/0W1vMIzrcYyyMkjRkd0HLETyU/zfNjzkIlywOwT_UL',
-    // 'https://classic-bonus.com/bp3EV.0jPu3WpOv/bkmuVHJ/ZSDd0p1LMQzacuyWMgztAVyvL-T-UYzhNLzPILzcM/DDMd',
-    // 'https://classic-bonus.com/bF3WVz0.Pa3VptvqbXmbVzJTZ/Dp0v1uMCz/ceylMWzpE/wcLVTiUvz/NrzjIHz/MjT-EB',
+    'https://classic-bonus.com/bp3EV.0jPu3WpOv/bkmuVHJ/ZSDd0p1LMQzacuyWMgztAVyvL-T-UYzhNLzPILzcM/DDMd',
+    'https://classic-bonus.com/bF3WVz0.Pa3VptvqbXmbVzJTZ/Dp0v1uMCz/ceylMWzpE/wcLVTiUvz/NrzjIHz/MjT-EB',
 
-    // 'https://classic-bonus.com/b_3TV.0fPv3Zp/vTbzmdV/J_ZRDr0/1oMyz/gaxENzDMA/4/L/T_UZzaOYDREZ0JMIDlkq',
-    // 'https://classic-bonus.com/b.3RVX0/P_3ipavkbBm/V/JoZqDQ0t1-MJzvg/x/NWDpEe2FLNTRUEzSO/DtE/0MMxTMca',
+    'https://classic-bonus.com/b_3TV.0fPv3Zp/vTbzmdV/J_ZRDr0/1oMyz/gaxENzDMA/4/L/T_UZzaOYDREZ0JMIDlkq',
+    'https://classic-bonus.com/b.3RVX0/P_3ipavkbBm/V/JoZqDQ0t1-MJzvg/x/NWDpEe2FLNTRUEzSO/DtE/0MMxTMca',
     // 'https://classic-bonus.com/br3.VF0/Pi3ypQvubJmHVtJMZiDh0a1HMWz-gpxZNHD/Iy0HLDTJUjz/OlDaEX0VMCjRUq',
     // 'https://classic-bonus.com/bL3NVl0iP.3MplvEbSmbVdJ-ZMD/0Q1_Mwzrk/1TNizBMY2HLYTUUCzNOfT/UO3_M/zQci',
     // 'https://classic-bonus.com/b.3tVM0/PM3xpRv/b_mnV-J/ZoDc0M1qMOz/kZ1NN-zoQN0IL/TSUgzdOdTeUo3BN/DZUS',
