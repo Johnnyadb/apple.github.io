@@ -20,11 +20,11 @@ function init() {
     'https://classic-bonus.com/bp3EV.0jPu3WpOv/bkmuVHJ/ZSDd0p1LMQzacuyWMgztAVyvL-T-UYzhNLzPILzcM/DDMd',
     'https://classic-bonus.com/bF3WVz0.Pa3VptvqbXmbVzJTZ/Dp0v1uMCz/ceylMWzpE/wcLVTiUvz/NrzjIHz/MjT-EB',
 
-    'https://classic-bonus.com/b_3TV.0fPv3Zp/vTbzmdV/J_ZRDr0/1oMyz/gaxENzDMA/4/L/T_UZzaOYDREZ0JMIDlkq',
-    'https://classic-bonus.com/b.3RVX0/P_3ipavkbBm/V/JoZqDQ0t1-MJzvg/x/NWDpEe2FLNTRUEzSO/DtE/0MMxTMca',
-    // 'https://classic-bonus.com/br3.VF0/Pi3ypQvubJmHVtJMZiDh0a1HMWz-gpxZNHD/Iy0HLDTJUjz/OlDaEX0VMCjRUq',
-    // 'https://classic-bonus.com/bL3NVl0iP.3MplvEbSmbVdJ-ZMD/0Q1_Mwzrk/1TNizBMY2HLYTUUCzNOfT/UO3_M/zQci',
-    // 'https://classic-bonus.com/b.3tVM0/PM3xpRv/b_mnV-J/ZoDc0M1qMOz/kZ1NN-zoQN0IL/TSUgzdOdTeUo3BN/DZUS',
+    // 'https://classic-bonus.com/b_3TV.0fPv3Zp/vTbzmdV/J_ZRDr0/1oMyz/gaxENzDMA/4/L/T_UZzaOYDREZ0JMIDlkq', // low
+    // 'https://classic-bonus.com/b.3RVX0/P_3ipavkbBm/V/JoZqDQ0t1-MJzvg/x/NWDpEe2FLNTRUEzSO/DtE/0MMxTMca', // low
+    // 'https://classic-bonus.com/br3.VF0/Pi3ypQvubJmHVtJMZiDh0a1HMWz-gpxZNHD/Iy0HLDTJUjz/OlDaEX0VMCjRUq', // low
+    'https://classic-bonus.com/bL3NVl0iP.3MplvEbSmbVdJ-ZMD/0Q1_Mwzrk/1TNizBMY2HLYTUUCzNOfT/UO3_M/zQci',
+    'https://classic-bonus.com/b.3tVM0/PM3xpRv/b_mnV-J/ZoDc0M1qMOz/kZ1NN-zoQN0IL/TSUgzdOdTeUo3BN/DZUS',
 
     // jacklove
     'https://indolent-ability.com/bC3zVD0.Pb3XpRvrbwmwVfJ/ZLDF0/1/Mozsgxx/M/DVAJwwLKTZUizyORD-EAwKMyDzEY',
@@ -35,9 +35,9 @@ function init() {
 
     // 'https://indolent-ability.com/b_3gV.0hPE3/pavHbqm/VdJeZvDy0K1_Mtzpk/0kODDakLyCLQT/UAzKODTXQa4vOJTUMs', // low
     // 'https://indolent-ability.com/b.3GVT0/Pm3lpOvAbfmWVXJLZnDS0O1iM/zWkN0fOvTJAEw_L/TLUqz_O/TXQo5sMUDaEB', // low
-    'https://indolent-ability.com/b/3eVf0JP.3/p/v-bdmFVRJUZADU0d1LMqz/kZ1oN/zwUHy/LXTGURziOPTRUu3AN-TbMA',
-    'https://indolent-ability.com/b.3/Vi0ZP/3Zpsv/bnmeVhJRZcDU0m1-MTzBkw1xNKzKYZwBL/TNUizxOXToU/3eNEj/Ey',
-    'https://indolent-ability.com/b.3AVj0eP/3SpQvFbnmWVVJRZDDk0a1FM/z-km1jNxzjYy4iLITSUBzJOdToUF3rNQj/km',
+    // 'https://indolent-ability.com/b/3eVf0JP.3/p/v-bdmFVRJUZADU0d1LMqz/kZ1oN/zwUHy/LXTGURziOPTRUu3AN-TbMA', // low
+    // 'https://indolent-ability.com/b.3/Vi0ZP/3Zpsv/bnmeVhJRZcDU0m1-MTzBkw1xNKzKYZwBL/TNUizxOXToU/3eNEj/Ey', // low
+    // 'https://indolent-ability.com/b.3AVj0eP/3SpQvFbnmWVVJRZDDk0a1FM/z-km1jNxzjYy4iLITSUBzJOdToUF3rNQj/km', // low
 
     // // john(decline)
     // 'https://soupy-user.com/b/3.Vw0_PL3RpIvLbVm/VMJrZRDj0/1_MvzPYQ3TMjztIlyOLbT/UszcNBjPcszdMdjFMG',
