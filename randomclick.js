@@ -23,8 +23,8 @@ function init() {
     // 'https://classic-bonus.com/b_3TV.0fPv3Zp/vTbzmdV/J_ZRDr0/1oMyz/gaxENzDMA/4/L/T_UZzaOYDREZ0JMIDlkq', // low
     // 'https://classic-bonus.com/b.3RVX0/P_3ipavkbBm/V/JoZqDQ0t1-MJzvg/x/NWDpEe2FLNTRUEzSO/DtE/0MMxTMca', // low
     // 'https://classic-bonus.com/br3.VF0/Pi3ypQvubJmHVtJMZiDh0a1HMWz-gpxZNHD/Iy0HLDTJUjz/OlDaEX0VMCjRUq', // low
-    'https://classic-bonus.com/bL3NVl0iP.3MplvEbSmbVdJ-ZMD/0Q1_Mwzrk/1TNizBMY2HLYTUUCzNOfT/UO3_M/zQci',
-    'https://classic-bonus.com/b.3tVM0/PM3xpRv/b_mnV-J/ZoDc0M1qMOz/kZ1NN-zoQN0IL/TSUgzdOdTeUo3BN/DZUS',
+    // 'https://classic-bonus.com/bL3NVl0iP.3MplvEbSmbVdJ-ZMD/0Q1_Mwzrk/1TNizBMY2HLYTUUCzNOfT/UO3_M/zQci', // low
+    // 'https://classic-bonus.com/b.3tVM0/PM3xpRv/b_mnV-J/ZoDc0M1qMOz/kZ1NN-zoQN0IL/TSUgzdOdTeUo3BN/DZUS', // low
 
     // jacklove
     'https://indolent-ability.com/bC3zVD0.Pb3XpRvrbwmwVfJ/ZLDF0/1/Mozsgxx/M/DVAJwwLKTZUizyORD-EAwKMyDzEY',
