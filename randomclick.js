@@ -17,8 +17,8 @@ function init() {
     // 'https://classic-bonus.com/b/3VV/0kP.3YpJvhbUmlVeJ/ZMDz0a1AMmz_cyy/M/jFcD2mLsTLUbz/NqzzIiyzNQzQcT', // low
     // 'https://classic-bonus.com/bf3tVI0.P/3/pgvWbHm/VKJsZUDA0G1/MWz/cZyVMGj/gW0PLjTHU-zFNfzKINyFOvDyUj', // low
     // 'https://classic-bonus.com/bT3RVo0tP.3Lpwvhb/m/VjJDZcD/0W1vMIzrcYyyMkjRkd0HLETyU/zfNjzkIlywOwT_UL', // low
-    'https://classic-bonus.com/bp3EV.0jPu3WpOv/bkmuVHJ/ZSDd0p1LMQzacuyWMgztAVyvL-T-UYzhNLzPILzcM/DDMd',
-    'https://classic-bonus.com/bF3WVz0.Pa3VptvqbXmbVzJTZ/Dp0v1uMCz/ceylMWzpE/wcLVTiUvz/NrzjIHz/MjT-EB',
+    // 'https://classic-bonus.com/bp3EV.0jPu3WpOv/bkmuVHJ/ZSDd0p1LMQzacuyWMgztAVyvL-T-UYzhNLzPILzcM/DDMd',
+    // 'https://classic-bonus.com/bF3WVz0.Pa3VptvqbXmbVzJTZ/Dp0v1uMCz/ceylMWzpE/wcLVTiUvz/NrzjIHz/MjT-EB',
 
     // 'https://classic-bonus.com/b_3TV.0fPv3Zp/vTbzmdV/J_ZRDr0/1oMyz/gaxENzDMA/4/L/T_UZzaOYDREZ0JMIDlkq', // low
     // 'https://classic-bonus.com/b.3RVX0/P_3ipavkbBm/V/JoZqDQ0t1-MJzvg/x/NWDpEe2FLNTRUEzSO/DtE/0MMxTMca', // low
@@ -27,9 +27,9 @@ function init() {
     // 'https://classic-bonus.com/b.3tVM0/PM3xpRv/b_mnV-J/ZoDc0M1qMOz/kZ1NN-zoQN0IL/TSUgzdOdTeUo3BN/DZUS', // low
 
     // jacklove
-    'https://indolent-ability.com/bC3zVD0.Pb3XpRvrbwmwVfJ/ZLDF0/1/Mozsgxx/M/DVAJwwLKTZUizyORD-EAwKMyDzEY',
-    'https://indolent-ability.com/b.3mVR0aPg3fp/vdbYmvVkJnZODI0/1lMGz/gLxPMDDQAc4-LGT/UYz_OkD/EswdMEDNkS',
-    'https://indolent-ability.com/bL3-VY0.Pu3Qp/vQbbmAV/JPZxDe0Y1vMPz/gvxlMEDtE/2lLpTDUHz/OQDWEqwCMyTbcZ',
+    // 'https://indolent-ability.com/bC3zVD0.Pb3XpRvrbwmwVfJ/ZLDF0/1/Mozsgxx/M/DVAJwwLKTZUizyORD-EAwKMyDzEY',
+    // 'https://indolent-ability.com/b.3mVR0aPg3fp/vdbYmvVkJnZODI0/1lMGz/gLxPMDDQAc4-LGT/UYz_OkD/EswdMEDNkS',
+    // 'https://indolent-ability.com/bL3-VY0.Pu3Qp/vQbbmAV/JPZxDe0Y1vMPz/gvxlMEDtE/2lLpTDUHz/OQDWEqwCMyTbcZ',
     // 'https://indolent-ability.com/bx3SV.0iPo3Pp/v/bVmAV-JAZbDx0/1/MazugExVMrzZY_4wL/TMUozKO/DdEnzuNIjIkk', // low
     // 'https://indolent-ability.com/bO3/VG0.PA3HpQvibJm/VmJeZSD-0c1JMxz/gLx/MDzEgo0GLyTNUtzoODDbEPzYOVD-Ue', // low
 
@@ -87,18 +87,18 @@ function init() {
     // 'https://www.highcpmgate.com/y1i91ubt?key=12078ca6790ca0e3e0183b6d53dcc0f3',
     // 'https://www.highcpmgate.com/nqiy56uena?key=26807e7e722e2080c7a364711501aa5d',
     
-    // Lucy beta
-    'https://www.highrevenuenetwork.com/bu71hki7pg?key=b3d0aabe20e37ad2a080cef996e523a8',
-    'https://www.highrevenuenetwork.com/spw4aigpi?key=2bfe09727d8f45c16edc5be8ce11fe73',
-    'https://www.highrevenuenetwork.com/eeuiwn19?key=a0e1b3b183cb8921ed2aaca0c4cb4490',
-    'https://www.highrevenuenetwork.com/q5kx6qdha?key=ba303090626471c9f450339de19b98be',
-    'https://www.highrevenuenetwork.com/csdvh2ud?key=cb18caab3a96de3cec11deee57f1e7bc',
+    // Lucy beta(block)
+    // 'https://www.highrevenuenetwork.com/bu71hki7pg?key=b3d0aabe20e37ad2a080cef996e523a8',
+    // 'https://www.highrevenuenetwork.com/spw4aigpi?key=2bfe09727d8f45c16edc5be8ce11fe73',
+    // 'https://www.highrevenuenetwork.com/eeuiwn19?key=a0e1b3b183cb8921ed2aaca0c4cb4490',
+    // 'https://www.highrevenuenetwork.com/q5kx6qdha?key=ba303090626471c9f450339de19b98be',
+    // 'https://www.highrevenuenetwork.com/csdvh2ud?key=cb18caab3a96de3cec11deee57f1e7bc',
 
-    'https://www.highrevenuenetwork.com/sinsdiqgi9?key=53e9c847f7c5dd151315203caf1e9d52',
-    'https://www.highrevenuenetwork.com/p5tww3iey?key=79cf82d37bbc5d541d8b9f1cd490e72f',
-    'https://www.highrevenuenetwork.com/snzzu32zv?key=51d98fb2c88138ff52842ebbdf5e7208',
-    'https://www.highrevenuenetwork.com/dei9cpf8?key=de5a27a88f4a7d445ec6d8223b295d66',
-    'https://www.highrevenuenetwork.com/zr0crh68?key=799ba5664e70bdf781b556024bd3e3a7',
+    // 'https://www.highrevenuenetwork.com/sinsdiqgi9?key=53e9c847f7c5dd151315203caf1e9d52',
+    // 'https://www.highrevenuenetwork.com/p5tww3iey?key=79cf82d37bbc5d541d8b9f1cd490e72f',
+    // 'https://www.highrevenuenetwork.com/snzzu32zv?key=51d98fb2c88138ff52842ebbdf5e7208',
+    // 'https://www.highrevenuenetwork.com/dei9cpf8?key=de5a27a88f4a7d445ec6d8223b295d66',
+    // 'https://www.highrevenuenetwork.com/zr0crh68?key=799ba5664e70bdf781b556024bd3e3a7',
 
     // Emily beta (blocked)
     // 'https://obliquecensortend.com/unjjajw4d?key=0cf45e318a7b88f458419087aa350ccc',
