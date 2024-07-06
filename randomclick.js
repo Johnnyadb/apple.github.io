@@ -1,17 +1,17 @@
 function init() {
   var arr = [
     // first
-    'https://cloudysolid.com/bD3/V/0IP.3Lp/vJbsm/V/J/Z/Dv0q1TMETUkN5/MhzEg/y/LXTEU/xwOrTlk/zKO_DkMt',
-    'https://cloudysolid.com/b.3/Vz0DPA3_pgvHbUmEV/JXZvD_0e1XMFj/UFyhNzj/UT2JLfThUvyTNNTUId2-NNTncj',
-    'https://cloudysolid.com/bt3.VD0/PY3qplvhb/mHVvJIZWDM0A1ZMLT-k/5/NZDcAjwfLhTAUexjOfTjk_0fMRDAEi',
-    'https://cloudysolid.com/b.3OVq0fPW3lpNvobMmAVMJjZBDF0/1rM_Tnkk5RNwDRAJ4nLGTeUnxRObTNkq0/M/D/k_',
-    'https://cloudysolid.com/b/3/V.0/Pe3NpnvrbFmSViJXZYDB0w1/MXzTEA0HOiTaUw5ALVT/USzvM/TwQJ5/NRjeAW',
+    "https://grim-package.com/br3vVW0.P/3YpmvdbHmnV/JXZMDZ0l1-MVTek/5pM/zigkydLUTyUixOOFThk/zDO_DxMw",
+    "https://grim-package.com/b/3BV.0DPA3kpYvmb/mGV-JaZiDz0r1RMcjdUHyJNQj/Uq2xLdTnU/ylNFTtIJ2_NWTXce",
+    "https://grim-package.com/bg3tV.0SPx3fpjv/bOmuVmJuZ/Dh0L1/MgT/ke5mNTDAAjwYL-TYU/xJO/TLkx0hMRDmEo",
+    "https://grim-package.com/bi3fVk0.Ph3DpmvObumCV/J/ZFDU0m1KMvTDky5ONYDpAg4dL/TAU-xPOdTpkX0mMvDmkU",
+    "https://grim-package.com/bS3fVD0/P.3Npjv/bDmSV/JPZrDZ0V1lMQzVEN0/OdTIUL5/LjTbUfzTMATIQF5/N_juAn",
 
-    'https://cloudysolid.com/bf3wV/0.PQ3/pYvObTmMVkJrZND-0l1gM_zaMcxZNuj/EgzfLETnULzlM/z/E/2/MITUQZ',
-    'https://cloudysolid.com/bs3fVP0jP.3xpqvzbImmVkJPZ/Dp0x1/MZzfMuzgMFTJMQ1rLOTfU/zCM/zGMHx/Maz-YI',
-    'https://cloudysolid.com/b.3MVw0hP/3rpRv/bBmcV/J/ZcDR0K1cM/z/cm5_MWjwU/2FLmTsUYztNvzNkgy/NLTXcb',
-    'https://cloudysolid.com/bc3.Vo0CPe3lp/v/bLmDV/J-Z/Dj0o1zM/zTcO5JMhj/Yg0sL/T/U/zTNjzwkRynNWjVUs',
-    'https://cloudysolid.com/b/3.Ve0QPV3ipdvjbdmhVVJHZ/D/0T1uM_z_c/5DM/j/c/yLLWT/UdzQNBzNkYywNDzCMw',
+    "https://grim-package.com/b/3.V/0dPL3DpCvSbbm-VXJ/ZVD/0N1nMNzcMfxmNVj/EuzXLVT/UozwMdzQEH2NM/T/QR",
+    "https://grim-package.com/bc3.Vx0/PM3/pFvwbImsVrJbZfDQ0/1pM/znM/zUM/TaMb1KLMTZUPztMJzqM/x_Mlz/YW",
+    "https://grim-package.com/bT3gV.0PPw3hpjvxb/msVBJ/ZODq0e1bMNzWco5yMxjZUM2/LCTGUHzJN-z/k/yAN/Tccg",
+    "https://grim-package.com/br3LVA0.P/3_pGvobvmuV/JkZBD/0U1PM/zMcQ5qMsj/Yy0ELBTwUVzmNHzFkTyhN-jkUd",
+    "https://grim-package.com/bM3/Va0.PD3Gpuvmb/m/V-JbZ/DZ0y1NM/z/c_5WMEjmcby/LjTlUIzjN-zPkey/NrzNMF",
 
     // db123
     // 'https://classic-bonus.com/b/3VV/0kP.3YpJvhbUmlVeJ/ZMDz0a1AMmz_cyy/M/jFcD2mLsTLUbz/NqzzIiyzNQzQcT', // low
