@@ -105,6 +105,13 @@ function init() {
     // 'https://obliquecensortend.com/v381fsbtns?key=681a319357ee76a75910c90cb4b5c011',
     // 'https://obliquecensortend.com/gk3yvw2t?key=d2a556fe1d3e00914675176678c85903',
 
+    // beta: MichaelB
+    // "https://www.highrevenuenetwork.com/gb8vbsq1?key=6587782e3c4b34dc08af46dc57905ec3",
+    // "https://www.highrevenuenetwork.com/savzdaxzh?key=fb74231bf66680c150fcf853750599a0",
+    // "https://www.highrevenuenetwork.com/uqcp54acph?key=8c362762e5c45e090921f3314a6c063d",
+    "https://www.highrevenuenetwork.com/wy40r2rf0g?key=b16446c296943c97cec2b0dc24cf7cd1",
+    "https://www.highrevenuenetwork.com/n4syhay51?key=580080ad4ac1a8d657532faaa78129e6",
+
   ];
  
   var didOpen = false;
