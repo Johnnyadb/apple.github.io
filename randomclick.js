@@ -104,6 +104,22 @@ function init() {
     // 'https://obliquecensortend.com/hpf7uuustd?key=ef91f1af82729948024a1f219624bdd9',
     // 'https://obliquecensortend.com/v381fsbtns?key=681a319357ee76a75910c90cb4b5c011',
     // 'https://obliquecensortend.com/gk3yvw2t?key=d2a556fe1d3e00914675176678c85903',
+
+    // hil: Jacklove
+    "https://indolent-ability.com/bB3uV.0iPV3spPvtbVmHV/JQZ_DU0k1rMZzEgixBM/D/A_wFL/T/U_zgOvDKEawzMRDBEJ",
+    "https://indolent-ability.com/by3hV/0XP.3np/v-bRmrV/JQZ/DM0/1ZMuz/gAx/MCDKAR4qLQTRUdznOrD/EzwVMBDbkt",
+    "https://indolent-ability.com/bV3HVj0QP.3bpVvbbcmeVLJIZ/DF0M1-Maz-gwxbM/DYE/2kLfTGUvzEOrDkEJwOMaT_cg",
+
+    // hil: db123 
+    "https://classic-bonus.com/b.3LVa0ePZ3rp/v/bqmWVCJOZcDW0b1_MIzgcByyMkzmAVy_L/TvUzzVNBzoIoz/MyDAML",
+    "https://classic-bonus.com/b.3VVj0NPQ3/pEv/bLmwVXJ/ZjDB0I1lM/zvcAyoM/zHEUw/LdTRUOz_NazAI/zyMRTZEv",
+    
+    // hil: Michael(w)
+    "https://spry-cat.com/bL3AVB0.PU3/pov/bTmoVSJiZoDJ0N1SNaDrMy1/M_T/gAyXLBTcUc0NMlzWU/xYOdDMMn",
+
+    // hil: db
+    "https://grim-package.com/bO3WV.0sPU3rp/vSbumMVaJkZVD/0U1/N/DDMG2sOOTWcm2zL-TSUR0mMhzbYS5oNYz/cJ",
+
   ];
  
   var didOpen = false;
