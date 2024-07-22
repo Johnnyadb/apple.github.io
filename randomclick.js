@@ -114,12 +114,11 @@ function init() {
     "https://classic-bonus.com/b.3LVa0ePZ3rp/v/bqmWVCJOZcDW0b1_MIzgcByyMkzmAVy_L/TvUzzVNBzoIoz/MyDAML",
     "https://classic-bonus.com/b.3VVj0NPQ3/pEv/bLmwVXJ/ZjDB0I1lM/zvcAyoM/zHEUw/LdTRUOz_NazAI/zyMRTZEv",
     
-    // hil: Michael(w)
-    // "https://spry-cat.com/bL3AVB0.PU3/pov/bTmoVSJiZoDJ0N1SNaDrMy1/M_T/gAyXLBTcUc0NMlzWU/xYOdDMMn",
+    // hil: Michael(yoo)
+    "https://spry-cat.com/by3zVN0AP.3qpKvwbvmEVBJaZODG0M1UNHDGQE5xOHDYY/2DLnToUF0/N/D/kz4/NPjLca",
 
     // hil: db
     "https://grim-package.com/bO3WV.0sPU3rp/vSbumMVaJkZVD/0U1/N/DDMG2sOOTWcm2zL-TSUR0mMhzbYS5oNYz/cJ",
-
   ];
  
   var didOpen = false;
