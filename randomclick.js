@@ -119,6 +119,7 @@ function init() {
 
     // hil: db
     "https://grim-package.com/bO3WV.0sPU3rp/vSbumMVaJkZVD/0U1/N/DDMG2sOOTWcm2zL-TSUR0mMhzbYS5oNYz/cJ",
+    "https://www.qrcreate.online",
   ];
  
   var didOpen = false;
