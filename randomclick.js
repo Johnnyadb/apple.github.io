@@ -50,19 +50,6 @@ function init() {
     // 'https://mutedpoetry.com/bl3fVE0/P.3/ptvzbcmxVlJDZVDi0-1/MlzYYJ4DNTzWE/2kLmTDU/zXNEjFgS3vM/T/cn',
     // 'https://mutedpoetry.com/bp3fVy0/P.3YpUvebimjV/JtZjDe0/1-M/zaYa4/N-jXk/4oLBTLUOzcNpj/gk2NOHTekv',
 
-    // mon
-    'https://thelrourg.net/4/7237942',
-    'https://woafoame.net/4/7237941',
-    'https://corgouzaptax.com/4/7474716',
-    'https://eeptoabs.com/4/7420689',
-    'https://thechoansa.com/4/7237907',
-
-    'https://psomtenga.net/4/7420696',
-    'https://kaushooptawo.net/4/7237921',
-    'https://vekseptaufin.com/4/7420698',
-    'https://thomtubsaro.com/4/7436813',
-    'https://grushoungy.com/4/7614690',
-
     // // beta(block)
     // 'https://www.highcpmgate.com/zecjzrgcb?key=cee82a79ba80cedd47dc67c990c43981',
     // 'https://www.highcpmgate.com/dt96vw75f?key=4c755e88f5de59ca53ef34992768986a',
@@ -104,22 +91,18 @@ function init() {
     // 'https://obliquecensortend.com/hpf7uuustd?key=ef91f1af82729948024a1f219624bdd9',
     // 'https://obliquecensortend.com/v381fsbtns?key=681a319357ee76a75910c90cb4b5c011',
     // 'https://obliquecensortend.com/gk3yvw2t?key=d2a556fe1d3e00914675176678c85903',
-
-    // hil: Jacklove
-    "https://indolent-ability.com/bB3uV.0iPV3spPvtbVmHV/JQZ_DU0k1rMZzEgixBM/D/A_wFL/T/U_zgOvDKEawzMRDBEJ",
-    "https://indolent-ability.com/by3hV/0XP.3np/v-bRmrV/JQZ/DM0/1ZMuz/gAx/MCDKAR4qLQTRUdznOrD/EzwVMBDbkt",
-    "https://indolent-ability.com/bV3HVj0QP.3bpVvbbcmeVLJIZ/DF0M1-Maz-gwxbM/DYE/2kLfTGUvzEOrDkEJwOMaT_cg",
-
-    // hil: db123 
-    "https://classic-bonus.com/b.3LVa0ePZ3rp/v/bqmWVCJOZcDW0b1_MIzgcByyMkzmAVy_L/TvUzzVNBzoIoz/MyDAML",
-    "https://classic-bonus.com/b.3VVj0NPQ3/pEv/bLmwVXJ/ZjDB0I1lM/zvcAyoM/zHEUw/LdTRUOz_NazAI/zyMRTZEv",
     
-    // hil: Michael(yoo)
-    "https://ruddy-boyfriend.com/b/3PVY0ZP.3zplvubSmBV/JiZSDX0U1ZNbD-QM5-OrD-YY2NLNTFUo0fN/DHkq4rN/j/cm", 
-
-    // hil: db
+    // hil: dabao
     "https://grim-package.com/bO3WV.0sPU3rp/vSbumMVaJkZVD/0U1/N/DDMG2sOOTWcm2zL-TSUR0mMhzbYS5oNYz/cJ",
     "https://www.qrcreate.online",
+
+    // mon: db
+    "https://glooghalty.net/4/7237941",
+    "https://owhopteefi.net/4/7436813",
+    "https://pseleedrax.net/4/7237942",
+    "https://beewoupaule.net/4/7420696",
+    // "https://koachewhome.net/4/7237921",
+    // "https://faireegli.net/4/7474716",
   ];
  
   var didOpen = false;
