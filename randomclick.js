@@ -12,6 +12,17 @@ function init() {
     "https://grim-package.com/bO3WV.0sPU3rp/vSbumMVaJkZVD/0U1/N/DDMG2sOOTWcm2zL-TSUR0mMhzbYS5oNYz/cJ",
     "https://www.qrcreate.online",
     "https://grim-package.com/bO3WV.0sPU3rp/vSbumMVaJkZVD/0U1/N/DDMG2sOOTWcm2zL-TSUR0mMhzbYS5oNYz/cJ",
+    "https://www.qrcreate.online",
+    "https://grim-package.com/bO3WV.0sPU3rp/vSbumMVaJkZVD/0U1/N/DDMG2sOOTWcm2zL-TSUR0mMhzbYS5oNYz/cJ",
+    "https://www.qrcreate.online",
+    "https://grim-package.com/bO3WV.0sPU3rp/vSbumMVaJkZVD/0U1/N/DDMG2sOOTWcm2zL-TSUR0mMhzbYS5oNYz/cJ",
+
+    // hil: Jacklove (bit)
+    "https://indolent-ability.com/b.3cVN0fPa3_pWvwbamCVRJeZFDQ0o1YMozXguxBMBDIAzwTLDTyUizpONDWEgwLMBDSEq",
+    "https://indolent-ability.com/bh3.Vy0aP/3fpPvYbCm/VdJ/ZPDS0c1kMIzVgwx/MwDYAh4/LvT-U-z/O/DfEIweMCDwkv",
+    "https://indolent-ability.com/bb3-Vy0.PE3IpavEb/m/VBJ/ZsDR0A1XM/zUglx/MjDdEl2eL/T-Uez/OZDOEzweM/TEcy",
+    // hil: Jacklove (ni)
+    "https://indolent-ability.com/b.3bV-0-Pa3JpBvib-mrV/JwZTDV0/1QNvD/cywwNjj/cg2/LaT/Uz0/NdzYAE2/NtzDcQ",
 
     // mon: db
     "https://nutchaungong.com/4/7420689",
