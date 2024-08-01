@@ -5,8 +5,7 @@ function init() {
     "https://www.qrcreate.online",
 
     // hil: db123 
-    "https://classic-bonus.com/b.3LVa0ePZ3rp/v/bqmWVCJOZcDW0b1_MIzgcByyMkzmAVy_L/TvUzzVNBzoIoz/MyDAML",
-    "https://classic-bonus.com/b.3VVj0NPQ3/pEv/bLmwVXJ/ZjDB0I1lM/zvcAyoM/zHEUw/LdTRUOz_NazAI/zyMRTZEv",
+    "https://classic-bonus.com/bY3.VK0OPK3tpYv/bYmQVDJ-Z/DI0/1/MKzqcYy/MQzzATy/LMTSUGz/NNzTIrzDMXDgMm",
 
     // hil: Michael(yoo) 
     "https://ruddy-boyfriend.com/bi3.VH0XPB3Spiv/bBm/VzJvZDDO0w1QN/DCQI5LOXD/Yx2cLXTIUD0ZNnDvk/4lNhjdcM",    
@@ -28,7 +27,7 @@ function init() {
     "https://futseerdoa.com/4/7237921",
     // "https://eeboazurg.net/4/7420696",
     "https://psauwaun.com/4/7614690",
-    "https://ptougeegnep.net/4/7237907",
+    // "https://ptougeegnep.net/4/7237907",
   ];
  
   var didOpen = false;
