@@ -7,6 +7,11 @@ function init() {
     // hil: db123 
     "https://classic-bonus.com/bY3.VK0OPK3tpYv/bYmQVDJ-Z/DI0/1/MKzqcYy/MQzzATy/LMTSUGz/NNzTIrzDMXDgMm",
     
+    // hil: Robert (robertgo)
+    "https://few-politics.com/b.3eVz0dPY3_pMvGbBmZVDJGZ/DS0P1ENZDqcR3uO/DzkwwKLCTLU/0PNizgcT4aOTTUEN",
+    // hil: Robert (anderson)
+    "https://few-politics.com/bR3/V.0DPk3qpvvIbQm-VmJKZrDG0F1DNLDEc/3COCTZA/4RLxTDU/0QNFzCcQ5MMHDbkN",
+    
     // hil: BrianLee (leeisok)
     "https://aggravatingoil.com/b/3KVp0/P.3GpGvdb/mHVmJYZIDz0N1mN/Dacr3/MozgUj0RLFTjU/0CNSzOcOz/N/TNUk",
     // hil: BrianLee (brian)
@@ -19,10 +24,10 @@ function init() {
     // "https://coawoaph.net/4/7237942",
     // "https://laichegloavy.com/4/7631332",
 
-    "https://vorsoutseemt.com/4/7436813",
-    "https://eedootefaug.net/4/7420698",
-    // "https://futseerdoa.com/4/7237921",
-    // "https://eeboazurg.net/4/7420696",
+    // "https://vorsoutseemt.com/4/7436813",
+    // "https://eedootefaug.net/4/7420698",
+    "https://futseerdoa.com/4/7237921",
+    "https://eeboazurg.net/4/7420696",
     // "https://psauwaun.com/4/7614690",
     // "https://ptougeegnep.net/4/7237907",
   ];
