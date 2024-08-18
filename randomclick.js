@@ -1,8 +1,10 @@
 function init() {
   var arr = [
-    // hil: dabao
-    "https://grim-package.com/bO3WV.0sPU3rp/vSbumMVaJkZVD/0U1/N/DDMG2sOOTWcm2zL-TSUR0mMhzbYS5oNYz/cJ",
-    "https://www.qrcreate.online",
+    // hil: db (ss)
+    "https://grim-package.com/b.3yVi0OPz3/pDvqblmoVxJWZ_DC0/1ZNhDOM/2KO/TacQ2HL/TiUO0JMmzLYw5-NizhcK",
+    // "https://www.qrcreate.online",
+    // hil: db (s1)
+    "https://grim-package.com/b/3.Ve0JPk3rpFvWbFmGVxJgZEDB0C1zNATsAe2ZMCDQMx2JLaTzU/1/MXDQYzwpM_zWco",
 
     // hil: db123 (mm)
     "https://classic-bonus.com/bM3.VL0pPb3xpXvibQmQV/JPZrDs0a1YMezmcky-MAz/AsyDLsTuUlzwN/znIkzwMUDwMR",
