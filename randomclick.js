@@ -9,10 +9,13 @@ function init() {
     // hil: db123 (mm2)
     "https://classic-bonus.com/b.3_Vq0/PO3VpHvkb/m_VbJxZ/D-0Q1uNhTsAI1oMCTFYCyaLFTtUt1gMwDoUCx/NqjaMD",
 
+    // hil: Brian
+    "https://aggravatingoil.com/b.3eVq0HPG3RpNvAbYmqVqJjZ/DO0i1/NDT/AY1AMXzbciwVL_T/U-1TMpDqUQzMNLzmEj",
+
     // mon: db
     "https://nutchaungong.com/4/7420689",
     "https://maipheeg.com/4/7474716",
-    // "https://glocheexi.com/4/7237941",
+    "https://glocheexi.com/4/7237941",
     // "https://coawoaph.net/4/7237942",
     // "https://laichegloavy.com/4/7631332",
 
