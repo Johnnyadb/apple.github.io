@@ -6,10 +6,13 @@ function init() {
     // hil: db (s1)
     "https://grim-package.com/b/3.Ve0JPk3rpFvWbFmGVxJgZEDB0C1zNATsAe2ZMCDQMx2JLaTzU/1/MXDQYzwpM_zWco",
 
-    // hil: db123 (mm)
-    "https://classic-bonus.com/bM3.VL0pPb3xpXvibQmQV/JPZrDs0a1YMezmcky-MAz/AsyDLsTuUlzwN/znIkzwMUDwMR",
-    // hil: db123 (mm2)
-    "https://classic-bonus.com/b.3_Vq0/PO3VpHvkb/m_VbJxZ/D-0Q1uNhTsAI1oMCTFYCyaLFTtUt1gMwDoUCx/NqjaMD",
+    // // hil: db123 (mm)
+    // "https://classic-bonus.com/bM3.VL0pPb3xpXvibQmQV/JPZrDs0a1YMezmcky-MAz/AsyDLsTuUlzwN/znIkzwMUDwMR",
+    // // hil: db123 (mm2)
+    // "https://classic-bonus.com/b.3_Vq0/PO3VpHvkb/m_VbJxZ/D-0Q1uNhTsAI1oMCTFYCyaLFTtUt1gMwDoUCx/NqjaMD",
+
+    // hil: db123 (tast)
+    "https://classic-bonus.com/bE3PV.0WPr3UpXvkb/mVVOJIZND_0J1gN/TMAM2/ONTogw2/LiTWUw1XMgDNYS5KO-DGcN",
 
     // hil: Brian
     "https://aggravatingoil.com/b.3eVq0HPG3RpNvAbYmqVqJjZ/DO0i1/NDT/AY1AMXzbciwVL_T/U-1TMpDqUQzMNLzmEj",
