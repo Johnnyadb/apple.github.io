@@ -6,6 +6,9 @@ function init() {
     // hil: db (s1)
     "https://grim-package.com/b/3.Ve0JPk3rpFvWbFmGVxJgZEDB0C1zNATsAe2ZMCDQMx2JLaTzU/1/MXDQYzwpM_zWco",
 
+    // hil: db123 (nihao)
+    "https://classic-bonus.com/bg3uVN0pP.3xpuvibwmfVqJgZIDj0q1aNdTQA/3FMOj-EryPLITsUf1TMVDHc-yhMsTQMu",
+
     // hil: Brian
     "https://aggravatingoil.com/b.3eVq0HPG3RpNvAbYmqVqJjZ/DO0i1/NDT/AY1AMXzbciwVL_T/U-1TMpDqUQzMNLzmEj",
 
@@ -13,7 +16,7 @@ function init() {
     "https://nutchaungong.com/4/7420689",
     "https://maipheeg.com/4/7474716",
     "https://glocheexi.com/4/7237941",
-    // "https://coawoaph.net/4/7237942",
+    "https://coawoaph.net/4/7237942",
     // "https://laichegloavy.com/4/7631332",
 
     // "https://vorsoutseemt.com/4/7436813",
