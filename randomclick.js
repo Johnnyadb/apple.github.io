@@ -11,6 +11,9 @@ function init() {
     "https://aggravatingoil.com/bD3.V/0WPd3Np/vubMm/VqJbZWDa0q1lNtT-QsyRMmj/Ew2XL_TmUQ1sN/DlIDyoMyTqcg",
     "https://json.navigateall.com",
 
+    // hil: Jacklove
+    "https://sexylove.mjsj.sbs/tags/",
+
     // mon: db
     // "https://nutchaungong.com/4/7420689",
     // "https://maipheeg.com/4/7474716",
@@ -21,7 +24,7 @@ function init() {
     // "https://vorsoutseemt.com/4/7436813",
     // "https://eedootefaug.net/4/7420698",
     "https://futseerdoa.com/4/7237921",
-    "https://eeboazurg.net/4/7420696",
+    // "https://eeboazurg.net/4/7420696",
     // "https://psauwaun.com/4/7614690",
     // "https://ptougeegnep.net/4/7237907",
 
